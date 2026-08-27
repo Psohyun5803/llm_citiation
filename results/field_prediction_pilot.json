@@ -1,0 +1,49 @@
+{
+  "n_tokens": 204,
+  "n_prompts": 5,
+  "class_counts": {
+    "author": 48,
+    "year": 44,
+    "title": 91,
+    "venue": 21
+  },
+  "split": "held-out test set (43 tokens from prompts not seen in training)",
+  "accuracy": 0.9069767441860465,
+  "macro_f1": 0.8708209488260639,
+  "majority_baseline": 0.3953488372093023,
+  "random_baseline": 0.25,
+  "confusion_matrix": {
+    "labels": [
+      "author",
+      "title",
+      "venue",
+      "year"
+    ],
+    "matrix": [
+      [
+        8,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        17,
+        0,
+        0
+      ],
+      [
+        0,
+        3,
+        3,
+        0
+      ],
+      [
+        1,
+        0,
+        0,
+        11
+      ]
+    ]
+  }
+}
