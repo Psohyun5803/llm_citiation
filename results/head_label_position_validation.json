@@ -1,0 +1,734 @@
+[
+  {
+    "id": "penicillin",
+    "clean_diff": 8.0859375,
+    "corrupted_diff": -8.25,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.7843137254901961,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.4814453125
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.08453369140625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0450439453125
+        },
+        {
+          "token": "1",
+          "weight": 0.041473388671875
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0252838134765625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0242767333984375
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.6884765625
+        },
+        {
+          "token": "2",
+          "weight": 0.027008056640625
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0166778564453125
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.015869140625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.01507568359375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01416778564453125
+        }
+      ]
+    }
+  },
+  {
+    "id": "gravity",
+    "clean_diff": 7.625,
+    "corrupted_diff": -7.3671875,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.7936425221469515,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.482177734375
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0845947265625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.044952392578125
+        },
+        {
+          "token": "1",
+          "weight": 0.041351318359375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0253753662109375
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.02423095703125
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.6884765625
+        },
+        {
+          "token": "2",
+          "weight": 0.0269927978515625
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0168609619140625
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.015899658203125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.015106201171875
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01430511474609375
+        }
+      ]
+    }
+  },
+  {
+    "id": "relativity",
+    "clean_diff": 7.0078125,
+    "corrupted_diff": -5.28125,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.7183725365543547,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.48193359375
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.084716796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.045196533203125
+        },
+        {
+          "token": "1",
+          "weight": 0.041534423828125
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0253753662109375
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0241546630859375
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.6884765625
+        },
+        {
+          "token": "2",
+          "weight": 0.0271453857421875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.01678466796875
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.015899658203125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0151519775390625
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01427459716796875
+        }
+      ]
+    }
+  },
+  {
+    "id": "dna",
+    "clean_diff": 7.96875,
+    "corrupted_diff": -5.875,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.6918735891647856,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.4814453125
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.08453369140625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0450439453125
+        },
+        {
+          "token": "1",
+          "weight": 0.041473388671875
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0252838134765625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0242767333984375
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.6884765625
+        },
+        {
+          "token": "2",
+          "weight": 0.027008056640625
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0166778564453125
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.015869140625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.01507568359375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01416778564453125
+        }
+      ]
+    }
+  },
+  {
+    "id": "telephone",
+    "clean_diff": 8.34375,
+    "corrupted_diff": -8.0625,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.8404761904761905,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.48291015625
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0845947265625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.044525146484375
+        },
+        {
+          "token": "1",
+          "weight": 0.041534423828125
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0254364013671875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0240631103515625
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.689453125
+        },
+        {
+          "token": "2",
+          "weight": 0.0269012451171875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0167083740234375
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0157470703125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0149383544921875
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01425933837890625
+        }
+      ]
+    }
+  },
+  {
+    "id": "bridge_year",
+    "clean_diff": 10.6171875,
+    "corrupted_diff": -9.2421875,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.8532651455546814,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.482421875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.08477783203125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.044647216796875
+        },
+        {
+          "token": "1",
+          "weight": 0.0416259765625
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0254364013671875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0240936279296875
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.68896484375
+        },
+        {
+          "token": "2",
+          "weight": 0.027069091796875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.016815185546875
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0157928466796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.014984130859375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01434326171875
+        }
+      ]
+    }
+  },
+  {
+    "id": "highest_mountain",
+    "clean_diff": 9.234375,
+    "corrupted_diff": -7.4296875,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.7688701359587435,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.48291015625
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.084716796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.045013427734375
+        },
+        {
+          "token": "1",
+          "weight": 0.041351318359375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0253448486328125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0240631103515625
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.689453125
+        },
+        {
+          "token": "2",
+          "weight": 0.0270843505859375
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.016754150390625
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0158538818359375
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.01509857177734375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01421356201171875
+        }
+      ]
+    }
+  },
+  {
+    "id": "photosynthesis",
+    "clean_diff": 9.0,
+    "corrupted_diff": -6.609375,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.8293293293293293,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.4814453125
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.08465576171875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.04498291015625
+        },
+        {
+          "token": "1",
+          "weight": 0.041351318359375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.025390625
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0242156982421875
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.68994140625
+        },
+        {
+          "token": "2",
+          "weight": 0.026947021484375
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0166778564453125
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0157470703125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0150909423828125
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01416015625
+        }
+      ]
+    }
+  },
+  {
+    "id": "seasons",
+    "clean_diff": 7.9609375,
+    "corrupted_diff": -6.984375,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.4986931521170936,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.481689453125
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.084716796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.045257568359375
+        },
+        {
+          "token": "1",
+          "weight": 0.04156494140625
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.025238037109375
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0242919921875
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.68896484375
+        },
+        {
+          "token": "2",
+          "weight": 0.0269927978515625
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.016845703125
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0157928466796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.01514434814453125
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01424407958984375
+        }
+      ]
+    }
+  },
+  {
+    "id": "boiling_point",
+    "clean_diff": 9.765625,
+    "corrupted_diff": -6.9375,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.9658559401309635,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.48193359375
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.084716796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.045196533203125
+        },
+        {
+          "token": "1",
+          "weight": 0.041534423828125
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0253753662109375
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0241546630859375
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.6884765625
+        },
+        {
+          "token": "2",
+          "weight": 0.0271453857421875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.01678466796875
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.015899658203125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0151519775390625
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01427459716796875
+        }
+      ]
+    }
+  },
+  {
+    "id": "berlin_wall",
+    "clean_diff": 9.5390625,
+    "corrupted_diff": -7.59375,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.7450980392156863,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.482421875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.08477783203125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.04461669921875
+        },
+        {
+          "token": "1",
+          "weight": 0.0413818359375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0254669189453125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0240936279296875
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.68896484375
+        },
+        {
+          "token": "2",
+          "weight": 0.027099609375
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.01678466796875
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0158233642578125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.01508331298828125
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0142822265625
+        }
+      ]
+    }
+  },
+  {
+    "id": "wwii_english",
+    "clean_diff": 8.609375,
+    "corrupted_diff": -5.65625,
+    "ie_restricted_label_positions": 0.0,
+    "ie_full_sequence": 0.7031763417305587,
+    "label_attention": {
+      "1": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.481689453125
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.085205078125
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.0447998046875
+        },
+        {
+          "token": "1",
+          "weight": 0.04144287109375
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.0255584716796875
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.024017333984375
+        }
+      ],
+      "2": [
+        {
+          "token": "<|begin_of_text|>",
+          "weight": 0.689453125
+        },
+        {
+          "token": "2",
+          "weight": 0.0269012451171875
+        },
+        {
+          "token": " \ucc38\uace0",
+          "weight": 0.0167999267578125
+        },
+        {
+          "token": "\uc608",
+          "weight": 0.0158538818359375
+        },
+        {
+          "token": "\ud638",
+          "weight": 0.01500701904296875
+        },
+        {
+          "token": "\ud558\uc5ec",
+          "weight": 0.01435089111328125
+        }
+      ]
+    }
+  }
+]

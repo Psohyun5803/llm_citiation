@@ -1,0 +1,769 @@
+================================================================================
+id=1492499  difficulty=easy  split=train
+Q: What genre is Good?
+A: alternative rock
+
+[1] <-- EVIDENCE
+Good is the first album by the Boston-based alternative rock trio Morphine. It was released in 1992 on the Accurate/Distortion label. It was reissued by Rykodisc in 1993 after the band signed with the label. Critical reception. Trouser Press wrote that the album "establishes the goods, excavating a slippery, sultry groove that suggests blues and bebop without becoming either by providing ample room in the spacious mix for two evocative voices." AllMusic wrote, "While it may not be as stellar as their future releases would be ... Good did a splendid job of introducing the Boston trio's highly original sound.
+
+[2]
+was Corman's original choice to play Capone, but Twentieth Century Fox vetoed the deal, fearing that Welles was "undirectable". The film's narration has a style similar to that of Welles but was delivered by actor Paul Frees. Filming. Corman originally wanted to shoot the film on location in Chicago but eventually shot it on the Fox backlot. He filmed the massacre scene in a Desilu lot that was converted to resemble the garage where the crime was committed, as the real garage had been demolished by the time the movie started production. Before filming, Corman found photos of the murder
+
+[3]
+Ant Media announced that it would acquire Jam Filled from Boat Rocker as part of a reverse takeover arrangement. The reverse takeover was completed on August 1, 2025. Jam Filled Toronto. The Toronto branch of Jam Filled Entertainment was originally established as Dan Krech Productions on June 24, 1985, as one of the first visual effects companies in Toronto. In 1987, DKP became the first company in Canada to have an in-house digital suite. DKP had produced visual effects and animation for over 2,000 commercials and long-form projects by 2000, many of them for U.S. companies. DKP moved to a
+
+================================================================================
+id=149939  difficulty=easy  split=train
+Q: Who was the director of Pilot?
+A: Brett Ratner
+
+[1] <-- EVIDENCE
+"Pilot" is the pilot episode and series premiere of the American television series Prison Break, which premiered on August 29, 2005, in the United States. That night, it was aired as the first of a two-part pilot special, along with "Allen", which was broadcast straight after this episode. The episode was directed by series producer Brett Ratner, noted director of such works as Rush Hour and Red Dragon, and written by series creator and producer Paul Scheuring. The episode was given numerous positive reviews in not just the US, but from the majority of the rest of world, reaching record
+
+[2]
+wholeheartedly, but was refused. Later, Uncle Choi sneaks into the palace, posing as the cook, and re-meets Mang. Their mission is to find the "Cheung-kong #1" Tina. There, they raid the poison gas base map, but their actions were discovered by Mesa and Kawashima, so Uncle Choi, Tina and other people flee, and on the way Uncle Choi rescues his adopted daughter Nancy. Uncle Choi and the gang prepare a large-scale attack on the poison gas base, after numerous fierce battles, they conquer in the end. Cast. Dean Shek as Uncle Choi Jacky Cheung as Bobo Bear Tony Leung Ka-fai
+
+[3]
+Zhang Yimou was asked about the change at a screening in Massachusetts and said it was a problem of translation: "If you ask me if 'Our land' is a good translation, I can't tell you. All translations are handicapped. Every word has different meanings in different cultures." In Cause: The Birth of Hero—a documentary on the making of Hero—Zhang mentions that he hopes the film will have some contemporary relevance, and that, in the aftermath of the September 11 attacks the themes of universal brotherhood and "peace under heaven" may indeed be interpreted more globally, and taken to refer to
+
+================================================================================
+id=149939  difficulty=hard  split=train
+Q: Who was the director of Pilot?
+A: Brett Ratner
+
+[1] <-- EVIDENCE
+"Pilot" is the pilot episode and series premiere of the American television series Prison Break, which premiered on August 29, 2005, in the United States. That night, it was aired as the first of a two-part pilot special, along with "Allen", which was broadcast straight after this episode. The episode was directed by series producer Brett Ratner, noted director of such works as Rush Hour and Red Dragon, and written by series creator and producer Paul Scheuring. The episode was given numerous positive reviews in not just the US, but from the majority of the rest of world, reaching record
+
+[2]
+for an Eddie Award in the category "Best Edited One-Hour Series for Commercial Television". However, his competitor, Stephen Semel, won the award for the American television series Lost. The pilot episode did, however win an Artios Casting Society of America award for "Best Dramatic Pilot Casting" in 2006. The award was handed to John Papsidera, Wendy O'Brien and Claire Simon.
+
+[3]
+ratings in various countries. The episode introduces the two main protagonists of the series: Michael Scofield (played by Wentworth Miller) and Lincoln Burrows (played by Dominic Purcell). Lincoln Burrows has been sentenced to death for a crime he did not commit: the murder of Terrence Steadman, the brother of the Vice President of the United States. All avenues to delay or appeal Burrows’ execution have been exhausted owing to the high-profile nature of the case. Burrows' brother Michael Scofield, a structural engineer, plans to get himself incarcerated so he can save his brother from his death sentence, by using his
+
+================================================================================
+id=3367439  difficulty=easy  split=train
+Q: In what country is Jam Filled Entertainment?
+A: Canada
+
+[1] <-- EVIDENCE
+Jam Filled Entertainment is a Canadian animation studio based in Ottawa, Ontario (with additional facilities in Toronto and Halifax), and is a subsidiary of Blue Ant Media. The company is known for animating several Nicktoons series such as The Loud House and its spin-off The Casagrandes, and Pinky Malinky, as well as the Cartoon Network series DC Super Hero Girls and Final Space. Its Toronto division, formerly known as Arc Productions and Starz Animation, has worked on CGI films and series such as Chop Socky Chooks, Gnomeo & Juliet, Thomas & Friends, and VeggieTales. History. Jam Filled Entertainment was founded
+
+[2]
+search for locations and subsequently determine what colors would be used, altering the script to do so. Music. The film was scored by Tan Dun, who also conducted the China Philharmonic Orchestra and Chorus for the recording. The composer Chen Yuanlin also collaborated in the project. Itzhak Perlman performs most of the violin solos, with additional solos by Tan Dun himself. The theme song, Hero (英雄), composed by Zhang Yadong and Lin Xi, was sung by Faye Wong. It is unavailable in the American versions of the film DVD and soundtrack album. Wind & Sand (風沙) is a song inspired
+
+[3]
+of Letters, 1997), Peter Howitt (Stone Cold). Scene at BroadcastForschools.co.uk. Scene at the BFI Film and Television Database Loved Up at the BFI's Screenonline
+
+================================================================================
+id=3367439  difficulty=hard  split=train
+Q: In what country is Jam Filled Entertainment?
+A: Canada
+
+[1] <-- EVIDENCE
+Jam Filled Entertainment is a Canadian animation studio based in Ottawa, Ontario (with additional facilities in Toronto and Halifax), and is a subsidiary of Blue Ant Media. The company is known for animating several Nicktoons series such as The Loud House and its spin-off The Casagrandes, and Pinky Malinky, as well as the Cartoon Network series DC Super Hero Girls and Final Space. Its Toronto division, formerly known as Arc Productions and Starz Animation, has worked on CGI films and series such as Chop Socky Chooks, Gnomeo & Juliet, Thomas & Friends, and VeggieTales. History. Jam Filled Entertainment was founded
+
+[2]
+2010, the studio opened a major VFX wing to create all the effects for the new Starz Channel/Graham King Productions miniseries, Camelot, Alcon Entertainment's Dolphin Tale, and producer Avi Arad's family feature, Robosapien: Rebooted. In April 2011, Liberty Starz sold Starz Animation to a Canadian consortium, and it was renamed Arc Productions. Under the new owner, the studio was planning to do more proprietary production. On July 29, 2016, Arc Productions entered receivership and closed down its studio, locking out 500 employees after telling them there was a payroll glitch and no one had been paid. At the time of
+
+[3]
+new facility on Queen Street East in March 2001. American telecommunications company IDT Corporation acquired DKP Effects on March 16, 2004, leading to the company being renamed DKP Studios. On May 26, 2006, Liberty Media bought IDT Entertainment from IDT, including Anchor Bay Entertainment and Film Roman, and merged it with the Starz cable network to form Starz Media. Under its new management in 2007, the studio began a "Starz Shortz" program which has produced Bundle of Joy, Enter the Sandbox, Ormie and Lovebirds. In 2007, Starz Animation took over animating Shane Acker's feature 9 from Attitude Studio, Luxembourg. In
+
+================================================================================
+id=589999  difficulty=easy  split=train
+Q: Who is the father of Frans Pourbus the Elder?
+A: Pieter Pourbus
+
+[1] <-- EVIDENCE
+Frans Pourbus the Elder (Bruges, 1545 – Antwerp, 19 September 1581) was a Flemish Renaissance painter who is known primarily for his portraits and religious compositions, as well as a few genre scenes. He was the son of the prominent Bruges painter and cartographer Pieter Pourbus and the father of Frans Pourbus the Younger who became an international portraitist of the European ruling class. Life. Frans Pourbus was born in Bruges as the son of the prominent painter Pieter Pourbus. Pieter Pourbus was originally from Gouda and had moved with his family to Bruges at a very young age. Here
+
+[2]
+University, Ahmedabad, 2011). Gustav Le Bon (1841-1931), Ferdinand Tönnies (1855-1936) and Mahatma Gandhi (1869-1948) as Modern Psychologists (Mahatma Gandhi Mission, Aurangabad, 2018; 2nd ed., 2020). “A Comprehensive Sketch of What Mahatma Gandhi Said and Did re: Health, Nutrition, Hygiene and Health Care” (lecture delivered in 2019 in New Delhi to a joint meeting of the All India Institute of Medical Sciences and the Indian Council of Medical Research) An Account of the Historic Dialogue between Mahatma Gandhi and Babasaheb Ambedkar (with a preface by Ankushrao N. Kadam; Mahatma Gandhi Mission University, Aurangabad, 2020) Looking Back for Insights into a New
+
+[3]
+a Telugu mother, Rekha is fluent in Tamil and Telugu. She has mentioned that "at home we used to talk in English" and that she thinks in English. She is also fluent in Hindi. Rekha did not reveal her family background until mid-1970s. During her unstable childhood, her relationship with her father Ganesan was estranged. Ganesan did not want to recognize her as his daughter and give her a living. He rarely met both of his children with Pushpavalli, who subsequently married K. Prakash, a cinematographer from Madras, and she legally changed her name to K. Pushpavalli. She gave birth
+
+================================================================================
+id=589999  difficulty=hard  split=train
+Q: Who is the father of Frans Pourbus the Elder?
+A: Pieter Pourbus
+
+[1] <-- EVIDENCE
+Frans Pourbus the Elder (Bruges, 1545 – Antwerp, 19 September 1581) was a Flemish Renaissance painter who is known primarily for his portraits and religious compositions, as well as a few genre scenes. He was the son of the prominent Bruges painter and cartographer Pieter Pourbus and the father of Frans Pourbus the Younger who became an international portraitist of the European ruling class. Life. Frans Pourbus was born in Bruges as the son of the prominent painter Pieter Pourbus. Pieter Pourbus was originally from Gouda and had moved with his family to Bruges at a very young age. Here
+
+[2]
+male and female participants in this composition are wearing clothes in the latest fashion such as high hats, puffed pants and ruff collars. They are enjoying themselves in the outdoors in a garden with plenty of food, drink, music and dance. The scene also includes a black page and a jester. The composition includes allusions to the aristocratic pursuit of hunting such as the dog in the foreground and the falcon on the right. Some couples on the right have separated themselves from the revelers at the table and their amorous intentions are all too clear. In most cases the
+
+[3]
+the prominent painter Joris Hoefnagel, around a table. The work is believed to represent the wedding of Balthasar Hoefnagel and Anna van Lieffelt. The family portrait was commissioned by Balthasar Hoefnagel (before 1554–1608), which explains the initials 'BH' near the spinet on the table. It is plausible that the family portrait is related to a marriage of Balthasar and Anna van Lieffelt, who can be recognized on the left of the panel as the bride and groom. For this occasion Balthasar also commissioned from Pourbus two additional portraits of himself and his wife, which were still unpaid to Pourbus at
+
+================================================================================
+id=201598  difficulty=easy  split=test
+Q: Who was the director of Soldier?
+A: Paul W. S. Anderson
+
+[1] <-- EVIDENCE
+Soldier is a 1998 science fiction action film directed by Paul Anderson, written by David Webb Peoples, and starring Kurt Russell, Jason Scott Lee, Jason Isaacs, Connie Nielsen, Sean Pertwee and Gary Busey. The film tells the story of an unemotional rigidly disciplined laconic soldier of the future who is left for dead, befriends a group of refugees, then faces his former superiors and soldiers who are determined to achieve their goal by eliminating the refugees. The film was released worldwide by Warner Bros. on October 23, 1998. Upon its release, Soldier received generally negative reviews, although many praised the
+
+[2]
+along with the plan to give Khoka some charanamrito and let Doyamoyee hold him that night. Khoka is dead in the morning. Umaprasad returns home and finds Kalikinkar alone, weeping at the foot of a statue of Kali. He accuses his father of killing Khoka through his blind faith, and then says he intends to save his wife from the crushing burden of divinity, but he seems to be too late—he finds Doyamoyee getting dressed in her wedding attire, wide-eyed and saying they must leave before she is killed. She runs off into the mist, while Umaprasad calls after her.
+
+[3]
+Deam. Teaching Matthew written by Al Hunter Ashton. A satire on Willy Russell's Educating Rita. Ashton acted in the film, playing Sergeant Conway. Adrian Lester played the eponymous lead character. Stone Cold (1997) Starring Peter Howitt. Threat to runaway boy Link who becomes homeless after abuse at home and is prey to a street killer. Directed by Stephen Whittaker and produced by Andy Rowley. BAFTA nominated Junk (1999): Bafta-winning drama. Following difficulties with her parents, teenager Gemma Brogan leaves home. She falls under the spell of a young woman who introduces her to the world of alternative youth culture and
+
+================================================================================
+id=201598  difficulty=hard  split=test
+Q: Who was the director of Soldier?
+A: Paul W. S. Anderson
+
+[1] <-- EVIDENCE
+Soldier is a 1998 science fiction action film directed by Paul Anderson, written by David Webb Peoples, and starring Kurt Russell, Jason Scott Lee, Jason Isaacs, Connie Nielsen, Sean Pertwee and Gary Busey. The film tells the story of an unemotional rigidly disciplined laconic soldier of the future who is left for dead, befriends a group of refugees, then faces his former superiors and soldiers who are determined to achieve their goal by eliminating the refugees. The film was released worldwide by Warner Bros. on October 23, 1998. Upon its release, Soldier received generally negative reviews, although many praised the
+
+[2]
+men behind, Captain Church objects, Mekum shoots him in cold blood. Before take off, Todd appears and with one look at the situation, causes his old comrades to silently side with him over Mekum and take over the ship. They throw Mekum and his aides out then evacuate the remaining colonists. In a panicked attempt to disarm the Doomsday device, Mekum accidentally sets it off, killing him and his aides. Todd pilots the ship from Arcadia just ahead of the shockwave and sets course for the Trinity Moons, the colonists' original destination. He picks up Nathan and points to their
+
+[3]
+action sequences and Russell's performance. The film was a box-office failure, grossing $14.6 million worldwide against a production budget of $60 million. Despite the financial failure, the film has now become a cult film. Plot. In 1996, an experimental military program selects and raises a group of orphaned infants to be trained as highly disciplined, ruthless, professional soldiers. Recruits considered physically or mentally underperforming are executed and the survivors are turned into ultimate fighting machines with no understanding of the civilian world. In 2036, Sgt. Todd 3465 is a hardened veteran and one of the original 1996 infants, but his
+
+================================================================================
+id=5333366  difficulty=easy  split=train
+Q: Who is the author of Oldest Living Confederate Widow Tells All?
+A: Allan Gurganus
+
+[1] <-- EVIDENCE
+Oldest Living Confederate Widow Tells All is a 1989 first novel by Allan Gurganus which was on the New York Times Best Seller list for eight months. It won the Sue Kaufman Prize from the American Academy of Arts and Letters, was a main selection of the Book-of-the-Month Club and sold over four million copies. The novel is written as supposedly dictated to a visitor to the nursing home of ninety-nine-year-old Lucy Marsden, who was married around 1900 when she was 15 and her husband, Captain William Marsden, was 50. Through this motif, the novel explores issues of race and
+
+[2]
+curriculum. It was envisaged that the dramas shown would stimulate discussion in the classroom about various contemporary issues relevant to teenagers (such as race, drugs, sex, disability etc.). Award winners and nominees. Terry (1969) – BAFTA Flame of Knowledge Award. A Collier's Friday Night (1976) – BAFTA Flame of Knowledge Award. Loved Up (1996) – BAFTA for best schools drama. Series Ass.Producer Andy Rowley Alison (1996) – BAFTA nomination for best schools drama. Series Producer Andy Rowley United (1998) – BAFTA for best schools drama. Produced and directed by Michael McGowan. Junk (1999) – BAFTA for best schools drama. Offside
+
+[3]
+due to his involvement with War of the Worlds. Thus, the miniseries never materialized. Following the huge popularity of serialized prime time television series such as Lost and 24, the Fox Network had a change of heart and backed the production in 2004. The pilot episode was filmed a year after Scheuring wrote the script. The majority of the pilot was filmed on location in and around Chicago. After it was closed down in 2002, Joliet Prison became the set of Prison Break in 2005, standing in as Fox River State Penitentiary on screen. Scenes set in Lincoln's cell, the
+
+================================================================================
+id=3877551  difficulty=easy  split=train
+Q: Who was the screenwriter for United?
+A: Chris Chibnall
+
+[1] <-- EVIDENCE
+as Jimmy Murphy Jack O'Connell as Bobby Charlton Sam Claflin as Duncan Edwards Dougray Scott as Matt Busby Dean Andrews as Bert Whalley Kate Ashfield as Alma George David Calder as Harold Hardman Neil Dudgeon as Alan Hardaker Tim Healy as Tommy Skinner Melanie Hill as Cissie Charlton Bill Fellows as Robert Charlton Philip Hill-Pearson as Eddie Colman Thomas Howes as Mark Jones Ben Peel as Harry Gregg Brogan West as David Pegg Production. The film was produced by World Productions with a budget of £2 million. In writing his script, Chris Chibnall drew on first-hand interviews with the survivors
+
+[2]
+Last Round was brought by a free upgrade patch for the arcade version of Ultimate on February 17, 2015. It has the Last Round only contents unlocked by default. PC version. The Windows PC version of Last Round is only the second game in the series on PC, after Dead or Alive Online's open beta, and the third game for Virtua Fighter guest characters since their last PC game appearance on the PC version of Virtua Fighter 2. Based largely on the PS3 version of the game, it lacks the two new stages that are exclusive to the PS4 and
+
+[3]
+Today stated: "Katy Perry could be addressing her ex or her detractors on this defiant slapdown, a gleaming "Firework"-like pop torpedo propelled by slick beats and a brazen chorus." Chris Ryan, also of MTV, inferred that the song was aimed at Perry's ex-boyfriend Travie McCoy, while New York magazine journalist Amanda Dobbis described it as "another break-up anthem". Fans and media noted differences in the lyrics between the demo and the single, and claimed that the changes redirected the song's subject from McCoy to Perry's ex-husband Russell Brand, from whom she had recently divorced. Perry declared it was not about
+
+================================================================================
+id=3877551  difficulty=hard  split=train
+Q: Who was the screenwriter for United?
+A: Chris Chibnall
+
+[1] <-- EVIDENCE
+as Jimmy Murphy Jack O'Connell as Bobby Charlton Sam Claflin as Duncan Edwards Dougray Scott as Matt Busby Dean Andrews as Bert Whalley Kate Ashfield as Alma George David Calder as Harold Hardman Neil Dudgeon as Alan Hardaker Tim Healy as Tommy Skinner Melanie Hill as Cissie Charlton Bill Fellows as Robert Charlton Philip Hill-Pearson as Eddie Colman Thomas Howes as Mark Jones Ben Peel as Harry Gregg Brogan West as David Pegg Production. The film was produced by World Productions with a budget of £2 million. In writing his script, Chris Chibnall drew on first-hand interviews with the survivors
+
+[2]
+Gerard Gilbert in The Independent also noted a gangster-like appearance in Busby's costume, and suggested that painting Alan Hardaker as the villain seemed tame; "compared to Jimmy McGovern's Hillsborough, with its burning righteous anger aimed at the police and The Sun, Hardaker seemed like a flimsy scapegoat for what, au fond, was an appalling accident." Jim White, writing for The Telegraph was more positive stating "United...is brilliant in its evocation of the pipe-puffing Fifties football orbit...the CGI evocation of immediate post-war Old Trafford, with the smokestacks brooding above the open terraces, looks more authentic than the real thing...David Tennant's performance
+
+[3]
+omission of some players from the film; "Why didn't they include other players that died and were injured in the crash? If I was one of their family I would be very upset." In particular, he criticised film's portrayal of his father, which he thought made him look like a gangster; "I was disgusted with the portrayal of my father. He had this camel coat on, and a fedora, and all through the film he was never seen in a tracksuit. He was known as probably the first tracksuit manager at that time. I was disgusted." Television reviews such as
+
+================================================================================
+id=5777706  difficulty=easy  split=train
+Q: Who is the author of Small g: a Summer Idyll?
+A: Patricia Highsmith
+
+[1] <-- EVIDENCE
+experience of one of Highsmith's friends, though he nevertheless finds that in the novel it "strikes an unconvincing note". Critical reception. Writing in The New York Times, David Leavitt noted the novel's "superabundance of characters" give it "its air of Shakespearean complexity". Instead of the violent crime one expects from Highsmith, he wrote, Small g presents "a comedy of shifting, unstable identities to which the dramas of sexual uncertainty at its heart add a 90's edge". More typical is Highsmith's treatment of the novel's villain: "the scenes in which Renate rages at Luisa, or subjects her to increasingly bizarre domestic
+
+[2]
+Scene was a British television anthology drama/documentary series made by the BBC for teenagers, broadcast from 1968 to 2002. It comprised dramas and documentaries on topical issues, sometimes of a controversial nature, by leading contemporary playwrights including Willy Russell, Fay Weldon, Tom Stoppard, Alan Plater etc. Programmes were originally broadcast to a school audience as part of the BBC Schools strand. Dramas from the series were also regularly broadcast for a wider adult audience. Scene was originally conceived as a series of 30 minute dramas and documentaries suitable for showing to teenage schoolchildren as part of the English and Humanities
+
+[3]
+of his master. Pourbus travelled back to Antwerp where he married Suzanna Floris, the niece of his master Frans Floris and daughter of Cornelis Floris de Vriendt, a prominent sculptor and architect. Pourbus and his wife had a son also named Frans in 1569. This son became a portrait painter with an international career and was known as Frans Pourbus the Younger. The couple had three more children of whom two died in childhood. In the year 1569 Frans Pourbus was registered as a master of the Guild of Saint Luke in Bruges as well as the Guild of Saint
+
+================================================================================
+id=5777706  difficulty=hard  split=train
+Q: Who is the author of Small g: a Summer Idyll?
+A: Patricia Highsmith
+
+[1] <-- EVIDENCE
+experience of one of Highsmith's friends, though he nevertheless finds that in the novel it "strikes an unconvincing note". Critical reception. Writing in The New York Times, David Leavitt noted the novel's "superabundance of characters" give it "its air of Shakespearean complexity". Instead of the violent crime one expects from Highsmith, he wrote, Small g presents "a comedy of shifting, unstable identities to which the dramas of sexual uncertainty at its heart add a 90's edge". More typical is Highsmith's treatment of the novel's villain: "the scenes in which Renate rages at Luisa, or subjects her to increasingly bizarre domestic
+
+[2]
+apartment if she comes home late. A variety of minor characters of every sexual orientation, habituées of Jakob's or weekend visitors, form a loose social network in which Luisa becomes more and more engaged, exploring her attraction to Teddie and Dorrie in turn, while Renate's homophobia and anger at Luisa's attempts at independence become increasingly strident. Luisa is under legal obligation to Renate as an apprentice and relies on a good recommendation from her for future employment. Her friends contrive to free Luisa of her obligations to Renate. Depiction of HIV status. The subject of HIV testing appears in the
+
+[3]
+works nearby as a graphic designer; 19-year-old Luisa Zimmermann, an apprentice seamstress; Teddie Stevenson, a young aspiring journalist whom both Rickie and Luisa find attractive; Dorrie, an attractive lesbian drawn to Luisa; Freddie Schimmelmann, a married police officer interested in Rickie; and Renate Hagnauer, a club-footed older woman who owns the nearby design shop where Luisa is apprenticed. Renate's shop is also her home, and Luisa boards there. Renate spreads stories about Rickie to blacken his name. She tries to control Luisa's social life in every detail, even limiting her use of the telephone and locking her out of the
+
+================================================================================
+id=3776335  difficulty=easy  split=train
+Q: Who is the author of Conan, Lord of the Black River?
+A: Leonard Carpenter
+
+[1] <-- EVIDENCE
+Conan, Lord of the Black River is a fantasy novel by American writer Leonard Carpenter, featuring Robert E. Howard's sword and sorcery hero Conan the Barbarian. It was first published in paperback by Tor Books in April 1996. Plot. After successfully fulfilling his commission to overthrow a tyrannical baron in Koth, Conan travels into Baalur, a city-state in Shem. The queen of Baalur, Rufia, needs his aid. Baalur is suffering from a plague cast upon it by Zeriti, an old enemy of his previously believed dead. Zeriti seeks to settle a score dating from Conan's previous encounter with the two
+
+[2]
+Deam. Teaching Matthew written by Al Hunter Ashton. A satire on Willy Russell's Educating Rita. Ashton acted in the film, playing Sergeant Conway. Adrian Lester played the eponymous lead character. Stone Cold (1997) Starring Peter Howitt. Threat to runaway boy Link who becomes homeless after abuse at home and is prey to a street killer. Directed by Stephen Whittaker and produced by Andy Rowley. BAFTA nominated Junk (1999): Bafta-winning drama. Following difficulties with her parents, teenager Gemma Brogan leaves home. She falls under the spell of a young woman who introduces her to the world of alternative youth culture and
+
+[3]
+one of those once-in-a-generation metal albums that just gets everything right." Blabbermouth wrote, "If heavy metal was a college course, "Symbolic" would be on the reading list on day fucking one." Personnel. Most of the information here is adapted from the CD liner notes of the original 1995 release and the 2008 reissue. Death. Chuck Schuldiner – guitars, vocals, bass, drum programming on January 1994 demo, co–production Gene Hoglan – drums. Steve Di Giorgio – bass on March 1994 demo Technical personnel. Jim Morris – production, engineering George Marino – mastering, remastering Patricia Mooney – design. René Miville – artwork,
+
+================================================================================
+id=3776335  difficulty=hard  split=train
+Q: Who is the author of Conan, Lord of the Black River?
+A: Leonard Carpenter
+
+[1] <-- EVIDENCE
+Conan, Lord of the Black River is a fantasy novel by American writer Leonard Carpenter, featuring Robert E. Howard's sword and sorcery hero Conan the Barbarian. It was first published in paperback by Tor Books in April 1996. Plot. After successfully fulfilling his commission to overthrow a tyrannical baron in Koth, Conan travels into Baalur, a city-state in Shem. The queen of Baalur, Rufia, needs his aid. Baalur is suffering from a plague cast upon it by Zeriti, an old enemy of his previously believed dead. Zeriti seeks to settle a score dating from Conan's previous encounter with the two
+
+[2]
+east and travel south as it flows into the Black Kingdoms. The expedition encounter many dangers along the way, including pirates, hostile local rulers, religious cults, and cannibals before reaching the Styx's headwaters. At the source of the Styx, they face their worst and final challenge, Zeriti's bloodthirsty undead lover. However, the white lotus is finally secured and Conan's crewmembers return down the river. After a final encounter with Zeriti in Asgalun, they return to Baalur and cure the city's inhabitants.
+
+[3]
+women, told in the story "Hawks Over Shem", and her curse is transforming Rufia's subjects into hideous zombies. With an army of Baalurian soldiers, Conan begins his journey to retrieve a white lotus, the primary antidote for removing Zeriti's cruse, said to only bloom near the source of the Styx, the infamous black river. His army marches across the city-state of Nedrezzar before reaching the port city of Asgalun, where they set sail for the Styx, which serves as a boundary between Shem and the ancient kingdom of Stygia. The crew follow the river down a vast tributary to the
+
+================================================================================
+id=1367838  difficulty=easy  split=train
+Q: Who was the screenwriter for Kulam?
+A: Lenin Rajendran
+
+[1] <-- EVIDENCE
+Kulam is a 1997 Indian Malayalam-language film, directed by Lenin Rajendran, loosely based on the historical novel Marthandavarma, by C. V. Raman Pillai. The film stars Suresh Gopi, Bhanupriya, Vijayaraghavan and Jagathy Sreekumar. The music direction of the film has composed by MG Radhakrishnan. Plot. The film begins with an oath undertaken by Etu Veetil Pilamar, eight lords of Venad kingdom led by Kudamon Pillai that they never withdraw from their decisions. Thampi, son of the king of Venad arrives and reveals that he intend to assassinate Marthandavarma, the rightful heir to the throne. All except for Kazhakkoottathu Pillai swear
+
+[2]
+the painter Jan Mahieu. They had a son who was called Moses, a name which confirms that they were Calvinists. This religious affiliation possibly explains why after 1577 he specialised increasingly in portraiture as Calvinists generally were opposed to religious paintings. Pourbus was a standard-bearer of the civil guard. He became critically ill during the performance of his civil guard duties. He caught typhoid fever by resting near a sewer pipe in the guardhouse where he was stationed. He died as a result on 19 September 1581. His father survived him. His widow married the painter Hans Jordaens the Elder.
+
+[3]
+Voice deemed it to have a "cartoon ideology" and justification for ruthless leadership comparable to Triumph of the Will. Stephen Hunter of The Washington Post wrote an otherwise positive review, but concluded: "The movie, spectacular as it is, in the end confronts what must be called the tyrant's creed, and declares itself in agreement with the tyrant." The "Sixth Generation" movement director Jia Zhangke described the focus of the film as "authority of power" that "for 'harmony in the world,' we should give up individual fights and efforts", and made him uncomfortable. The film also has been interpreted as a
+
+================================================================================
+id=1367838  difficulty=hard  split=train
+Q: Who was the screenwriter for Kulam?
+A: Lenin Rajendran
+
+[1] <-- EVIDENCE
+Kulam is a 1997 Indian Malayalam-language film, directed by Lenin Rajendran, loosely based on the historical novel Marthandavarma, by C. V. Raman Pillai. The film stars Suresh Gopi, Bhanupriya, Vijayaraghavan and Jagathy Sreekumar. The music direction of the film has composed by MG Radhakrishnan. Plot. The film begins with an oath undertaken by Etu Veetil Pilamar, eight lords of Venad kingdom led by Kudamon Pillai that they never withdraw from their decisions. Thampi, son of the king of Venad arrives and reveals that he intend to assassinate Marthandavarma, the rightful heir to the throne. All except for Kazhakkoottathu Pillai swear
+
+[2]
+Channan appears out of nowhere whom Etu Veetil's soldiers could not catch. Subadra takes a liking to Channan and gives him asylum. She request Channa to help her find out Kumaran. Subadra seduces Ramanamadom Pillai. A drunk Pillai reveals the plot to kill Marthandavarma near the palace by surrounding the palace. Subadra conveys the plan to Channan. Channan finds Kumaran and inform Subadra. He lives in a Muslim nomad tent and is married to a Muslim woman. Subhadra confronts Kumaran who ends up crying when Subadra tells she dreamt of child and so much happiness while marrying Kumaran. Subadra leaves
+
+[3]
+conspires to add to Kumaran's suspicions. Kudaman Pillai gets further angered when the king takes away the powers of Pillai. Now that the king is in deathbed, Thampi and Pillais plans to attack and kill Marthandavarma when he visits Mangoikkal kuruppu. Kumaran is chosen to lead the attack. He is warned that this is Thampi's plot to get him killed. Kumaran tries to flee, but Thampi attacks Kumaran and injures him. Kumaran finally runs away for life. Subhadra wows to find out Kumaran. She confronts Thampi who threatens to rape her, but spares her. A mentally unstable but physically strong
+
+================================================================================
+id=6258787  difficulty=easy  split=test
+Q: In what country is Eschbronn?
+A: Germany
+
+[1] <-- EVIDENCE
+Eschbronn is a municipality in the district of Rottweil, in Baden-Württemberg, Germany. History and name. The municipality of Eschbronn was created on 1 January 1972 by the merging of the towns of Locherhof and Mariazell as part of the 1968-75 Baden-Württemberg municipal reforms. A previous, unsuccessful attempt at a merger was attempted by the townships in 1939. For the 1972 merger, the equality of the townships was emphasized by the choosing of a new name, Eschbronn. Locherhof. Locherhof was first mentioned in 1326 as "Affolterunbach", an apple orchard owned by the Imperial Abbey of Rottenmünster, in a legal dispute with
+
+[2]
+due to his involvement with War of the Worlds. Thus, the miniseries never materialized. Following the huge popularity of serialized prime time television series such as Lost and 24, the Fox Network had a change of heart and backed the production in 2004. The pilot episode was filmed a year after Scheuring wrote the script. The majority of the pilot was filmed on location in and around Chicago. After it was closed down in 2002, Joliet Prison became the set of Prison Break in 2005, standing in as Fox River State Penitentiary on screen. Scenes set in Lincoln's cell, the
+
+[3]
+While it was the alternative crowd who immediately latched onto Morphine, their music was geared more toward the jazz scene – a wailing saxophone, lead bass (played with a slide), and lyrics influenced by '50s beat poetry were all-important ingredients." 2020 vinyl expanded edition. On September 9, 2019, the Run Out Groove label announced that Good had been voted as their next vinyl rerelease and would include a bonus record of unreleased tracks remastered from the original source tapes. It was released on January 17, 2020. side one (1-6) and two (7-13) as per original album Notes. All tracks on
+
+================================================================================
+id=6258787  difficulty=hard  split=test
+Q: In what country is Eschbronn?
+A: Germany
+
+[1] <-- EVIDENCE
+Eschbronn is a municipality in the district of Rottweil, in Baden-Württemberg, Germany. History and name. The municipality of Eschbronn was created on 1 January 1972 by the merging of the towns of Locherhof and Mariazell as part of the 1968-75 Baden-Württemberg municipal reforms. A previous, unsuccessful attempt at a merger was attempted by the townships in 1939. For the 1972 merger, the equality of the townships was emphasized by the choosing of a new name, Eschbronn. Locherhof. Locherhof was first mentioned in 1326 as "Affolterunbach", an apple orchard owned by the Imperial Abbey of Rottenmünster, in a legal dispute with
+
+[2]
+of arms. Eschbronn's municipal coat of arms displays ash tree branch with seven leaves, in green above a blue, invected line, and upon a field of white. This pattern mainly refers to the etymology of "Eschbronn". It was awarded with a municipal flag by the Rottweil district office in 1990.
+
+[3]
+Rottenmünster, but in 1806 became an independent municipality. On 26 April 1808, it was assigned to Oberamt Rottweil. Mariazell. Mariazell was established by Reichenau Abbey around 1000, but was first mentioned in historical documents in the 1275 Cella Mariae tithe book. The town was devastated by local warfare in 1444 and that time was a possession of the Lordship of Schramberg, itself part of the Habsburg realm of Further Austria. Mariazell also became a possession of the Kingdom of Württemberg in 1806. It was assigned on 27 October 1810 to Oberamt Oberndorf. Until 1839, the present-day municipality of Hardt was
+
+================================================================================
+id=3941562  difficulty=easy  split=train
+Q: Who was the screenwriter for Donsol?
+A: Adolfo Alix, Jr.
+
+[1] <-- EVIDENCE
+Donsol is a 2006 Filipino independent drama film written, produced, and directed by Adolfo B. Alix. It stars Sid Lucero and Angel Aquino. Shot entirely in Donsol, Sorsogon, and featuring underwater shots of whale sharks, it tackled major issues like illegal fishing that poses threats to the said marine species. Produced by Bicycle Pictures, in association with Giant Sponge Productions and supported by Liwayway Marketing Corporation, the film premiered on July 18, 2006, as an entry to the 2nd Cinemalaya Independent Film Festival. It was given a commercial release by ABS-CBN Film Productions on November 29. It was selected as
+
+[2]
+the box office; Bryce and Fleming became disenchanted with McClory's ability as a result. In October 1959, with Fleming spending less time on the film project, McClory introduced the experienced screenwriter Jack Whittingham to the writing team. In November 1959 Fleming left to travel around the world on behalf of The Sunday Times, material for which he also used for his 1963 non-fiction travel book, Thrilling Cities. On his travels—through Japan, Hong Kong and into the US—Fleming met with McClory and Ivar Bryce in New York; McClory told Fleming that Whittingham had completed a full outline which, he said, was
+
+[3]
+Mark Lindley (born 11 February 1937) is a musicologist, historian of modern India, and a teacher of economics. Born in Washington, D.C., he studied at Harvard University (A.B.), the Juilliard School of Music (M.S.) and Columbia University (D. Phil.). He has taught at Columbia University, City University of New York, Washington University, University of London, Oxford University, University of Regensburg, Chinese University of Hong Kong, University of Kerala, Istanbul Technical University, Yildiz Technical University, Bogaziçi University, and the University of Hyderabad, where he served in 2015 as the University Chair professor in the School of Economics. He has also lectured
+
+================================================================================
+id=3941562  difficulty=hard  split=train
+Q: Who was the screenwriter for Donsol?
+A: Adolfo Alix, Jr.
+
+[1] <-- EVIDENCE
+Donsol is a 2006 Filipino independent drama film written, produced, and directed by Adolfo B. Alix. It stars Sid Lucero and Angel Aquino. Shot entirely in Donsol, Sorsogon, and featuring underwater shots of whale sharks, it tackled major issues like illegal fishing that poses threats to the said marine species. Produced by Bicycle Pictures, in association with Giant Sponge Productions and supported by Liwayway Marketing Corporation, the film premiered on July 18, 2006, as an entry to the 2nd Cinemalaya Independent Film Festival. It was given a commercial release by ABS-CBN Film Productions on November 29. It was selected as
+
+[2]
+the Philippines' entry for the Best Foreign Language Film at the 80th Academy Awards but was not nominated. Plot. A whale shark guide named Daniel (Sid Lucero) falls in love with the beautiful but mysterious tourist Teresa (Angel Aquino). The two individuals are nursing their own heartaches but find themselves hopelessly drawn to each other; Daniel was left behind by his girlfriend for a rich man, and Teresa, who is actually a widowed breast cancer patient. Fidel (Bembol Roco), Daniel's father, is an illegal fisherman and was caught by the police coast guard. This created friction between the relationship of
+
+[3]
+Daniel and the kapitana of the town, who provided jobs for them as a Butanding Interaction Officer or BIO. Mark Gil as Dustin. Aaron Junatas as Daniel's younger brother Donsol at IMDb. Official website of the film (archived)
+
+================================================================================
+id=4315195  difficulty=easy  split=train
+Q: Who was the producer of H?
+A: Darrell Wasyk
+
+[1] <-- EVIDENCE
+H is a 1990 Canadian film written, directed, and produced by Darrell Wasyk. Plot summary. H is about two heroin addicts, Michele (Pascale Montpetit) and Snake (Martin Neufeld), who struggle to withdraw from the drug. They do it "cold turkey". Snake nails the apartment door shut: they are determined to come clean. Michele awakens to discover she has been "betrayed" by her lover and is trapped. Barricaded in their apartment, they become each other’s hostage. As the days go by, their resolve ebbs and flows as they dig deeper and deeper into themselves. The hook to heroin addiction is the
+
+[2]
+Nameless, a Qin prefect, arrives at the Qin capital city to meet the king, who has survived multiple assassination attempts by Long Sky, Flying Snow, and Broken Sword. Implementing tight security, the king forbids visitors from approaching within 100 paces. Nameless asserts he has killed the assassins, displaying their weapons. Impressed, the king permits Nameless to approach within ten paces to share his story. Nameless recounts killing Sky at a gaming house before meeting Flying Snow and Broken Sword at a calligraphy school in a city besieged by the Qin army. Seeking to learn Sword's skill, he commissions a calligraphy
+
+[3]
+(2002) – BAFTA for best schools drama. Split game (2005) – BAFTA nomination for best schools drama. Stone Cold BAFTA nomination 1998 Producer Andy Rowley Director Stephen Whittaker Selected episodes. Terraces (1993). The residents of a street of terraced houses decide to paint them all in the colours of their local football team – all except one man who refuses to conform to mob rule. Written by Willy Russell. Loved Up (1995). A young woman leaves home to live with her boyfriend and discovers the rave scene and ecstasy. Series producer Andy Rowley. A 2 x 30 minute abridged version
+
+================================================================================
+id=4315195  difficulty=hard  split=train
+Q: Who was the producer of H?
+A: Darrell Wasyk
+
+[1] <-- EVIDENCE
+H is a 1990 Canadian film written, directed, and produced by Darrell Wasyk. Plot summary. H is about two heroin addicts, Michele (Pascale Montpetit) and Snake (Martin Neufeld), who struggle to withdraw from the drug. They do it "cold turkey". Snake nails the apartment door shut: they are determined to come clean. Michele awakens to discover she has been "betrayed" by her lover and is trapped. Barricaded in their apartment, they become each other’s hostage. As the days go by, their resolve ebbs and flows as they dig deeper and deeper into themselves. The hook to heroin addiction is the
+
+[2]
+false sense of immunity to the state at large but as withdrawal starts, this cocooned existence abruptly unravels. Reality sharpens, intensifies, and re-awakens. Sensations flare, as Michele and Snake scrape at the walls, the camera becomes a monitor, never once leaving the apartment. When almost totally withdrawn, Snake discovers a forgotten stash. They are faced with the ultimate question: "Do we really have control over our addictions?" Production. The movie was shot in Toronto, Ontario on a meagre budget of only $25,000. There are only two principal characters in one location. Festivals. Berlin International Film Festival October 1990. Montreal World
+
+[3]
+prizes, the Leopardo di Bronzo, Terzo premio del Festival, and the 1st prize offered by the Department for Education, Culture & Sport. At the 12th Genie Awards Pascale Montpetit won a Best Actress for her portrayal of Michele. It was also nominated for Best Director and Best Original Screenplay.
+
+================================================================================
+id=6212621  difficulty=easy  split=train
+Q: Who was the director of Workforce?
+A: Roxann Dawson
+
+[1] <-- EVIDENCE
+"Workforce" is a two-part episode from the seventh and final season of the TV series Star Trek: Voyager. Part one was directed by Allan Kroeker, and part two by Roxann Dawson. The crew of the USS Voyager find themselves working on a planet, with troubling memories resurfacing. "Workforce Part I" aired on the United Paramount Network (UPN) on February 21, 2001, and "Workforce, Part II" aired February 28, 2001. Part I. On an alien planet, Kathryn Janeway happily shows up for her first day of work at an energy plant, eager to take up her new position. None of the
+
+[2]
+album's lyrics have been described as "mystical," and explore topics such as political corruption, surveillance and class consciousness. Tour. Bassist Kelly Conlon was removed from the band after it completed recording the album. Conlon was replaced by Brian Benson, of Florida band Pain Principle. The Symbolic tour marked the first time that the band toured in Japan. Release. Symbolic was released by Roadrunner Records on March 21, 1995. Relativity Records made a deal with Roadrunner to release it, though Schuldiner felt that the album was not promoted well. The contract for Symbolic was a one album contract. The band did
+
+[3]
+the Philippines' entry for the Best Foreign Language Film at the 80th Academy Awards but was not nominated. Plot. A whale shark guide named Daniel (Sid Lucero) falls in love with the beautiful but mysterious tourist Teresa (Angel Aquino). The two individuals are nursing their own heartaches but find themselves hopelessly drawn to each other; Daniel was left behind by his girlfriend for a rich man, and Teresa, who is actually a widowed breast cancer patient. Fidel (Bembol Roco), Daniel's father, is an illegal fisherman and was caught by the police coast guard. This created friction between the relationship of
+
+================================================================================
+id=6212621  difficulty=hard  split=train
+Q: Who was the director of Workforce?
+A: Roxann Dawson
+
+[1] <-- EVIDENCE
+"Workforce" is a two-part episode from the seventh and final season of the TV series Star Trek: Voyager. Part one was directed by Allan Kroeker, and part two by Roxann Dawson. The crew of the USS Voyager find themselves working on a planet, with troubling memories resurfacing. "Workforce Part I" aired on the United Paramount Network (UPN) on February 21, 2001, and "Workforce, Part II" aired February 28, 2001. Part I. On an alien planet, Kathryn Janeway happily shows up for her first day of work at an energy plant, eager to take up her new position. None of the
+
+[2]
+ship, but avoids capture. Part II. With Neelix's help, Torres begins to remember her life as a starship engineer. On the planet, Chakotay (who has managed to escape capture thus far) approaches Janeway, but is unable to overcome her skepticism. A young doctor begins to become suspicious of so many people of the same species having the apparently rare "dysphoria syndrome," and almost all of them getting jobs at the energy plant at the same time, and none of them having any previous file references. After gentle inquiries result in an official "hands-off" warning from local law enforcement, the doctor
+
+[3]
+Trek Voyager: Complete Seventh Season. Related pages. Stargate SG-1 season 4#ep76 Beneath the Surface episode with similar plot External links. "Workforce, Part I" at IMDb "Workforce, Part II" at IMDb Workforce, Part I at Memory Alpha Workforce, Part II at Memory Alpha Workforce, Part I at Wayback Machine (archived from the original at StarTrek.com) Workforce, Part II at Wayback Machine (archived from the original at StarTrek.com)
+
+================================================================================
+id=2674885  difficulty=easy  split=train
+Q: Who was the director of The Raid?
+A: Ching Siu-tung
+
+[1] <-- EVIDENCE
+The Raid (Cantonese: 財叔之橫掃千軍 Coi Suk Zi Waang Sou Cin Gwan = "Uncle's Sweeping Thousands") is a 1991 Hong Kong action film directed by Tsui Hark and Ching Siu-tung and based on the Hong Kong manhua, Uncle Choi, published by Michael Hui from 1958 to the mid-1970s. The film stars Dean Shek, who also served as the film's presenter, as the titular protagonist, while also co-starring Jacky Cheung, Tony Leung, Joyce Godenzi, Fennie Yuen, Paul Chu and Corey Yuen. The Raid is also Shek's final acting role before retiring from the film industry. Plot. During the early years of the
+
+[2]
+national side, but flies out as soon as he can in order to visit his injured colleagues in hospital and travel home with Charlton. Two weeks after the crash, Edwards dies in hospital, heaping fresh devastation on Charlton, who is ready to give up football until he has a visit from Murphy and is soon playing for United again. Against the odds, Murphy vows to present a team to play their next home game and, ultimately, the 1958 FA Cup Final, taking charge of the first team until the following season as Busby recovers from his injuries. Cast. David Tennant
+
+[3]
+Daniel and the kapitana of the town, who provided jobs for them as a Butanding Interaction Officer or BIO. Mark Gil as Dustin. Aaron Junatas as Daniel's younger brother Donsol at IMDb. Official website of the film (archived)
+
+================================================================================
+id=2674885  difficulty=hard  split=train
+Q: Who was the director of The Raid?
+A: Ching Siu-tung
+
+[1] <-- EVIDENCE
+The Raid (Cantonese: 財叔之橫掃千軍 Coi Suk Zi Waang Sou Cin Gwan = "Uncle's Sweeping Thousands") is a 1991 Hong Kong action film directed by Tsui Hark and Ching Siu-tung and based on the Hong Kong manhua, Uncle Choi, published by Michael Hui from 1958 to the mid-1970s. The film stars Dean Shek, who also served as the film's presenter, as the titular protagonist, while also co-starring Jacky Cheung, Tony Leung, Joyce Godenzi, Fennie Yuen, Paul Chu and Corey Yuen. The Raid is also Shek's final acting role before retiring from the film industry. Plot. During the early years of the
+
+[2]
+Republic of China, Qing emperor Puyi was controlled by the Japanese and he established the Manchurian government in the north with Japanese Commander Mesa and Yoshiko Kawashima. Uncle Choi was once a soldier. Having studied medicine, he was entrusted one day by indigenous jungle people to save someone. On the thrilling road, he finds a group of soldiers who are victims of poison gas. Uncle Choi tries hard to save the colonel, but he dies. In the colonel's dying breath, he gives the task of resisting the enemy to Lieutenant Mang Tai-hoi. Uncle Choi had wanted to serve the country
+
+[3]
+wholeheartedly, but was refused. Later, Uncle Choi sneaks into the palace, posing as the cook, and re-meets Mang. Their mission is to find the "Cheung-kong #1" Tina. There, they raid the poison gas base map, but their actions were discovered by Mesa and Kawashima, so Uncle Choi, Tina and other people flee, and on the way Uncle Choi rescues his adopted daughter Nancy. Uncle Choi and the gang prepare a large-scale attack on the poison gas base, after numerous fierce battles, they conquer in the end. Cast. Dean Shek as Uncle Choi Jacky Cheung as Bobo Bear Tony Leung Ka-fai
+
+================================================================================
+id=5852482  difficulty=easy  split=train
+Q: Who was the producer of Super?
+A: Rockline Venkatesh
+
+[1] <-- EVIDENCE
+zero, or three or the Om symbol or Vitarka Mudrā (an ancient Buddhist gesture), public and media stuck to calling it Super. Shooting began on 18 February 2010 at the Kanteerava Indoor Stadium with the planned schedule for 90 days which included various locations in Bengaluru, Dubai and London. It was produced by Rockline Venkatesh under the banner Rockline Productions, which is its 25th venture. The film saw the debut of actress Nayanthara in Kannada films. The film was initially planned as a multilingual film. Prior to release, much information about the film was kept under wraps. During the promotion
+
+[2]
+described as "the most accurate, authentic gangster film ever". With a voiceover narration by Paul Frees, the film depicts in detail the events leading up to the massacre in a docudrama-style, with many authentic historical details. A young Bruce Dern plays one of the victims of the massacre, and Jack Nicholson has a bit part as a gangster. Also featured are Jan Merlin as one of Moran's lieutenants and veteran Corman actors Dick Miller and Leo Gordon as one of the phony policemen involved in the massacre and Heitler, respectively. A novelization of the film by Boris O'Hare based on
+
+[3]
+of the conclusion of the race, Anne sends Jean-Louis a telegram that reads, "Bravo! I love you. Anne." That night at a dinner for the drivers at the Monte Carlo Casino, Jean-Louis receives the telegram and leaves immediately. He jumps into the other Mustang (number 184) used during the race and drives through the night to Paris, telling himself that when a woman sends a telegram like that, you go to her no matter what. Along the way, he imagines what their reunion will be like. At her Paris apartment, Jean-Louis learns that Anne is in Deauville, so he continues
+
+================================================================================
+id=5852482  difficulty=hard  split=train
+Q: Who was the producer of Super?
+A: Rockline Venkatesh
+
+[1] <-- EVIDENCE
+zero, or three or the Om symbol or Vitarka Mudrā (an ancient Buddhist gesture), public and media stuck to calling it Super. Shooting began on 18 February 2010 at the Kanteerava Indoor Stadium with the planned schedule for 90 days which included various locations in Bengaluru, Dubai and London. It was produced by Rockline Venkatesh under the banner Rockline Productions, which is its 25th venture. The film saw the debut of actress Nayanthara in Kannada films. The film was initially planned as a multilingual film. Prior to release, much information about the film was kept under wraps. During the promotion
+
+[2]
+and English daily newspapers and websites. The distributors were quite happy about the response received throughout Andhra Pradesh. According to the box office analysts of Andhra Pradesh, the film surprisingly caught the attention of the B, C centre audience in a big way and scored good success. Critical reception. Critically, the film was widely well received with the Times of India rating it 4/5 stars and describing that the film "succeeds in keeping the audience entertained with witty dialogs, neat script and lively narration, along with Upendra's antics, and, at times, his strange make-up." Deccan Herald termed the film as
+
+[3]
+release. It was also screened at the fourth Bengaluru International Film Festival (BIFF) in December 2011 as part of the 'political satire' category. The film was later dubbed into Hindi as Rowdy Leader 2 by Goldmines Telefilms in 2017. Overseas release. Super was released in the US by Upendra's close friend Shivamurthy. The film was released in Australia in late August 2011, by a Kannada film distributor in Australia, Arunroopesh. It was screened in Melbourne, Sydney, Adelaide, Brisbane and Perth. Kannada. In Karnataka, the film was released at over 180 theaters on 3 December 2010. The film reported sold-out shows
+
+================================================================================
+id=1516720  difficulty=easy  split=test
+Q: Who is the author of Thunderball?
+A: Ian Fleming
+
+[1] <-- EVIDENCE
+next book, agreeing on a fee of 200 guineas, and instructed: "The picture would consist of the skeleton of a man's hand with the fingers resting on the queen of hearts. Through the back of the hand a dagger is plunged into the table top." For the Jamaican market, a paper wraparound band was produced which read "The thriller set in the Bahamas!" Thunderball was published in the US by Viking Press and sold better than any of the previous Bond books. In May 1963 Pan Books published a paperback version of Thunderball in the UK that sold 808,000 copies
+
+[2]
+clad in military clothing. The complexity and originality of the performance were praised. Brian Mansfield, of USA Today, called it a "pretty impressive production", but criticized Perry's vocal abilities. Perry included the song in the set list of her June 9, 2012 performance at Capital FM's Summertime Ball festival. DJ Earworm had also made a mashup called "Fly" for the Summertime Ball and included "Part of Me" and Perry's previous single, "The One That Got Away" in the mashup. On June 26, 2012 Perry performed "Part of Me" in her set list at the premiere for her July 2012 3D
+
+[3]
+stabs Subadra. He asks why she cheated on him. Subadra says she learned that it was Thampi who destroyed her life, so she got revenge. Also, that she now knew who her father is, whom Kudaman Pillai never reveals. Her father is the Commander in chief of the kingdom. By this time outside, people shouting and noises is heard. Kudaman Pillai goes with a sword, saying that as long as he is alive, he won't allow anyone to touch anybody of the Etu Veetil area. Channan enters Subadra's room to find dying Subhadra. Subadra request him to show his real
+
+================================================================================
+id=1516720  difficulty=hard  split=test
+Q: Who is the author of Thunderball?
+A: Ian Fleming
+
+[1] <-- EVIDENCE
+next book, agreeing on a fee of 200 guineas, and instructed: "The picture would consist of the skeleton of a man's hand with the fingers resting on the queen of hearts. Through the back of the hand a dagger is plunged into the table top." For the Jamaican market, a paper wraparound band was produced which read "The thriller set in the Bahamas!" Thunderball was published in the US by Viking Press and sold better than any of the previous Bond books. In May 1963 Pan Books published a paperback version of Thunderball in the UK that sold 808,000 copies
+
+[2]
+theirs", and Chapman observes that the freedom to make her own sexual choices were possibly the early signs of the sexual liberation that made part of the counterculture of the 1960s. The cultural historians Janet Woollacott and Tony Bennett see masculine aspects to Domino's character which manifest as "excessive aggressiveness and over-dominating bearing" which, they say, could be connected to her full first name, Dominetta, which translates as "little dominator". Fleming stresses such a masculine attitude in her approach to driving: But this girl drove like a man. She was entirely focused on the road ahead and on what was
+
+[3]
+before the end of the year, 617,000 in 1964 and 809,000 in 1965. In 1965 a special edition was produced to tie in with the release of the film Thunderball with a promotional tie-in with Player's Navy Cut, based on a passage in the book where Domino discusses a story behind the sailor in the logo. The version included a letter to Bond written by Domino asking him to read the pages with the story about the sailor. Since its initial publication the book has been reissued in hardback and paperback editions, translated into several languages and, as at, has
+
+================================================================================
+id=2480796  difficulty=easy  split=train
+Q: Who was the director of M?
+A: Joseph Losey
+
+[1] <-- EVIDENCE
+M is a 1951 American thriller film noir directed by Joseph Losey, an English-language remake of Fritz Lang's 1931 German film about a child murderer. The film stars David Wayne, Howard da Silva, Luther Adler and Martin Gabel in the leading roles. This version shifts the location of action from Berlin to Los Angeles. Both versions of M were produced by Seymour Nebenzal, whose son, Harold, was associate producer of the 1951 version. The film was produced independently, and released by Columbia Pictures in March 1951. Much as the original film was widely interpreted as an allegory for Nazism, Losey's
+
+[2]
+Nameless before the Qin army, while Sword, still recovering, watches. Snow is defeated, and Moon later gives Nameless her master's sword, suggesting that the swords of Snow and Sword should remain united even in death. Nameless admits possessing the special technique the king mentioned but insists the King underestimated Sword. He reveals the technique's dual nature: deadly yet capable of appearing fatal while avoiding vital organs. Nameless used it on Sky, then orchestrated a fake duel with Snow and Sword. Snow agrees, but Sword refuses. Snow accuses Sword of squandering their chance three years prior when he spared the king
+
+[3]
+Hai and Amiri Garibi, all of which went unnoticed. Still recovering from the recent suicide of her husband and struggling with the ensuing press antagonism towards her, Rekha retained considerable success with her starring role as Namrata Singh, a young woman who joins the police force to avenge her husband's death in K. C. Bokadia's Phool Bane Angaray (1991). The film was a box-office hit and Rekha received a Best Actress nomination at Filmfare for her work, in reference to which Subhash K. Jha remarked, "Khaki never seemed sexier". The Indian Express wrote that she "rides horses, wields swords and
+
+================================================================================
+id=2480796  difficulty=hard  split=train
+Q: Who was the director of M?
+A: Joseph Losey
+
+[1] <-- EVIDENCE
+M is a 1951 American thriller film noir directed by Joseph Losey, an English-language remake of Fritz Lang's 1931 German film about a child murderer. The film stars David Wayne, Howard da Silva, Luther Adler and Martin Gabel in the leading roles. This version shifts the location of action from Berlin to Los Angeles. Both versions of M were produced by Seymour Nebenzal, whose son, Harold, was associate producer of the 1951 version. The film was produced independently, and released by Columbia Pictures in March 1951. Much as the original film was widely interpreted as an allegory for Nazism, Losey's
+
+[2]
+in one of the many raids. Several innocent people are caught up in the hysteria. This pressure is preventing the city's crime syndicate from doing business, and its boss, Charlie Marshall, organizes his forces to find and stop the murderer so that the police will stop the crackdown and Marshall return to business as usual. Marshall hopes the positive publicity from capturing the so-called "baby killer" will sway public opinion in his favor in an upcoming racketeering trial. Meanwhile, Police Detective Carney has a psychologist examining patients who have been released from mental hospitals as possible suspects, profiling the perpetrator
+
+[3]
+was replaced by Ernest Laszlo. Filming locations. The film was shot on location in downtown Los Angeles, including the now demolished Victorian neighborhood of Bunker Hill. David Wayne's character lived at an eccentric Victorian mansion on Bunker Hill Avenue known as the Max Heindel house because Heindel, a famous astrologer in the early 20th century, had once lived there. Some scenes were shot on and around the funicular Angels Flight on Third Street. The most spectacular footage occurs in a lengthy sequence shot inside the Bradbury Building on the southeast corner of Broadway and Third, a block east of Angels
+
+================================================================================
+id=4854038  difficulty=easy  split=train
+Q: Who was the producer of Devi?
+A: Satyajit Ray
+
+[1] <-- EVIDENCE
+Devi (transl. Goddess) is a 1960 Indian Bengali-language drama by director Satyajit Ray, starring Sharmila Tagore, Soumitra Chatterjee, and Chhabi Biswas. It is based on a short story by Prabhat Kumar Mukhopadhyay. The plot follows a zamindar (Biswas) who believes that his daughter-in-law (Tagore) has revealed herself to be a Goddess incarnate in a dream. Plot. In rural Bengal in the 19th-century, the widowed zamindar Kalikinkar Roy, who is a devotee of the goddess Kali, lives in a mansion with servants and plenty of space for himself, his sons Taraprasad and Umaprasad, Taraprasad's wife Harasundari and son Khoka, and Umaprasad's
+
+[2]
+prizes, the Leopardo di Bronzo, Terzo premio del Festival, and the 1st prize offered by the Department for Education, Culture & Sport. At the 12th Genie Awards Pascale Montpetit won a Best Actress for her portrayal of Michele. It was also nominated for Best Director and Best Original Screenplay.
+
+[3]
+described as "the most accurate, authentic gangster film ever". With a voiceover narration by Paul Frees, the film depicts in detail the events leading up to the massacre in a docudrama-style, with many authentic historical details. A young Bruce Dern plays one of the victims of the massacre, and Jack Nicholson has a bit part as a gangster. Also featured are Jan Merlin as one of Moran's lieutenants and veteran Corman actors Dick Miller and Leo Gordon as one of the phony policemen involved in the massacre and Heitler, respectively. A novelization of the film by Boris O'Hare based on
+
+================================================================================
+id=4854038  difficulty=hard  split=train
+Q: Who was the producer of Devi?
+A: Satyajit Ray
+
+[1] <-- EVIDENCE
+Devi (transl. Goddess) is a 1960 Indian Bengali-language drama by director Satyajit Ray, starring Sharmila Tagore, Soumitra Chatterjee, and Chhabi Biswas. It is based on a short story by Prabhat Kumar Mukhopadhyay. The plot follows a zamindar (Biswas) who believes that his daughter-in-law (Tagore) has revealed herself to be a Goddess incarnate in a dream. Plot. In rural Bengal in the 19th-century, the widowed zamindar Kalikinkar Roy, who is a devotee of the goddess Kali, lives in a mansion with servants and plenty of space for himself, his sons Taraprasad and Umaprasad, Taraprasad's wife Harasundari and son Khoka, and Umaprasad's
+
+[2]
+Film Awards. 1960: President's silver medal for Best Feature Film in Bengali – Won Cannes Film Festival. 1962: Palme d'Or (Golden Palm) – Nominated
+
+[3]
+ritual with smoke and bells. Doyamoyee faints, which Kalikinkar interprets as her going into a trance. When she wakes up, she asks Harasundari to write to Umaprasad. Doyamoyee is moved to a more private part of the mansion and made to sit as an idol around which regular worship rituals are performed. A local beggar, having tried everything else he could think of, brings his unconscious grandson to her, and Kalikinkar suggests giving the boy some charanamrito (the water used to wash the goddess's feet) to drink. Umaprasad arrives during this process and, shocked by the whole scene, privately argues
+
+================================================================================
+id=1367064  difficulty=easy  split=train
+Q: What genre is Dead or Alive 5 Last Round?
+A: fighting game
+
+[1] <-- EVIDENCE
+are far from compelling and there are some unfortunate bugs at launch." During the 19th Annual D.I.C.E. Awards, the Academy of Interactive Arts & Sciences nominated Dead or Alive 5 for "Fighting Game of the Year". The PS4 and Xbox One versions of the game have sold more than 35,000 physical copies in Japan within the first week after its release. After the first four months, Dead or Alive 5 Last Round across all three platforms sold over 330,000 copies worldwide. By mid-2015, the accumulative sales of the standard Dead or Alive 5, 5 Ultimate and 5 Last Round combined
+
+[2]
+theirs", and Chapman observes that the freedom to make her own sexual choices were possibly the early signs of the sexual liberation that made part of the counterculture of the 1960s. The cultural historians Janet Woollacott and Tony Bennett see masculine aspects to Domino's character which manifest as "excessive aggressiveness and over-dominating bearing" which, they say, could be connected to her full first name, Dominetta, which translates as "little dominator". Fleming stresses such a masculine attitude in her approach to driving: But this girl drove like a man. She was entirely focused on the road ahead and on what was
+
+[3]
+M is a 1951 American thriller film noir directed by Joseph Losey, an English-language remake of Fritz Lang's 1931 German film about a child murderer. The film stars David Wayne, Howard da Silva, Luther Adler and Martin Gabel in the leading roles. This version shifts the location of action from Berlin to Los Angeles. Both versions of M were produced by Seymour Nebenzal, whose son, Harold, was associate producer of the 1951 version. The film was produced independently, and released by Columbia Pictures in March 1951. Much as the original film was widely interpreted as an allegory for Nazism, Losey's
+
+================================================================================
+id=1367064  difficulty=hard  split=train
+Q: What genre is Dead or Alive 5 Last Round?
+A: fighting game
+
+[1] <-- EVIDENCE
+are far from compelling and there are some unfortunate bugs at launch." During the 19th Annual D.I.C.E. Awards, the Academy of Interactive Arts & Sciences nominated Dead or Alive 5 for "Fighting Game of the Year". The PS4 and Xbox One versions of the game have sold more than 35,000 physical copies in Japan within the first week after its release. After the first four months, Dead or Alive 5 Last Round across all three platforms sold over 330,000 copies worldwide. By mid-2015, the accumulative sales of the standard Dead or Alive 5, 5 Ultimate and 5 Last Round combined
+
+[2]
+in December 2015 to arrive on February 25, 2016 in the arcade version, and as downloadable exclusive to the PlayStation 4 and Xbox One on March 17, 2016 and Windows on March 29, 2016. Returning. Raidou: An evil ninja and Ayane's biological father using techniques he has stolen from other fighters. Killed in the first Dead or Alive game, he returns as an undead cyborg. The memories of what is good left in him from his past no longer exist, leaving only his obsession to copy the fighters' fighting skills. Console versions. Dead or Alive 5 Last Round was announced
+
+[3]
+owners. Pre-ordering the retail version at GameStop and GAME for the PlayStation 4 or Xbox One rewarded the exclusive costume pack containing the "Ninja 2015" costume set (for Ayane, Ryu Hayabusa, Hayate and Kasumi), and "Aloha" costume set (for Ayane, Hitomi, Kasumi and Mila). Pre-ordering at Amazon.com, Best Buy and ShopTo rewarded access to exclusive costumes sets "Showstopper" (for Christie, Helena, Lisa and Tina) and "Beach Party" (for Kokoro, Leifang, Momiji and Rachel). In Japan, there are two special editions for the PlayStation 3, PlayStation 4, and Xbox One: the Collector's Edition and the Strongest Package, containing various digital and
+
+================================================================================
+id=1997293  difficulty=easy  split=train
+Q: Who was the producer of Hero?
+A: Zhang Yimou
+
+[1] <-- EVIDENCE
+nuanced investigation into the relationship between culture on one hand, and political or military power on the other. In this approach, the film comments not only on China and its position in the world, but also on the ongoing erasures of languages and cultures under globalization. Zhang Yimou himself maintained that he had absolutely no political points to make. Accolades. In 2014, Time Out polled several film critics, directors, actors and stunt actors to list their top action films. Hero was listed at 77th place on this list. Jet Li filmography. List of martial arts films
+
+[2]
+Soldier is a 1998 science fiction action film directed by Paul Anderson, written by David Webb Peoples, and starring Kurt Russell, Jason Scott Lee, Jason Isaacs, Connie Nielsen, Sean Pertwee and Gary Busey. The film tells the story of an unemotional rigidly disciplined laconic soldier of the future who is left for dead, befriends a group of refugees, then faces his former superiors and soldiers who are determined to achieve their goal by eliminating the refugees. The film was released worldwide by Warner Bros. on October 23, 1998. Upon its release, Soldier received generally negative reviews, although many praised the
+
+[3]
+prizes, the Leopardo di Bronzo, Terzo premio del Festival, and the 1st prize offered by the Department for Education, Culture & Sport. At the 12th Genie Awards Pascale Montpetit won a Best Actress for her portrayal of Michele. It was also nominated for Best Director and Best Original Screenplay.
+
+================================================================================
+id=1997293  difficulty=hard  split=train
+Q: Who was the producer of Hero?
+A: Zhang Yimou
+
+[1] <-- EVIDENCE
+nuanced investigation into the relationship between culture on one hand, and political or military power on the other. In this approach, the film comments not only on China and its position in the world, but also on the ongoing erasures of languages and cultures under globalization. Zhang Yimou himself maintained that he had absolutely no political points to make. Accolades. In 2014, Time Out polled several film critics, directors, actors and stunt actors to list their top action films. Hero was listed at 77th place on this list. Jet Li filmography. List of martial arts films
+
+[2]
+Canada. It is currently the fifth highest grossing non-English film in North America, behind The Passion of the Christ, Crouching Tiger, Hidden Dragon, Life is Beautiful, and Godzilla Minus One. Hero grossed $123.7 million in international territories outside North America, for a worldwide total of $177.4 million. Critical response. On Rotten Tomatoes, the film has an approval rating of 94% based on 210 reviews, with an average rating of 8.20/10. The website's critics consensus reads: "With death-defying action sequences and epic historic sweep, Hero offers everything a martial arts fan could ask for." On Metacritic, the film has a weighted
+
+[3]
+red, blue, and white. Red represents desire, possessiveness and jealousy. Blue represents reason and friendship. White represents the balance of reason and desire, the ultimate truth. The overall framing story is darker with shades of black, and flashbacks are shown in vibrant greens. The colors were chosen for their aesthetic reasons, not symbolic ones, and the colors orange and pink were not considered as options; Doyle was dismissive of universal theories of color, such as those put forward by Italian cinematographer Vittorio Storaro. For the sequence dominated by the color red, Doyle switched from Fuji film, the brand used for
+
+================================================================================
+id=6414257  difficulty=easy  split=train
+Q: What genre is Symbolic?
+A: death metal
+
+[1] <-- EVIDENCE
+not receive the support to release a video, whereas two songs from their previous albums, titled The Philosopher (from Individual Thought Patterns) and Lack of Comprehension (from Human) did feature videos. Schuldiner originally intended for Symbolic to be the last Death album, remarking in The Metal Crusade, the Death newsletter, that he "thought SYMBOLIC was a great record to leave people with to prepare them for the next journey, "Control Denied"! The album was remastered by Roadrunner Records in 2008 and includes five bonus tracks. Reception and legacy. Symbolic has received widespread critical acclaim and is regarded by many as
+
+[2]
+of 3.5 out of 5 and called it "a potent comic-book-style action-adventure." Eddie Harrison of film-authority.com wrote "...while humour is sorely lacking in Soldier, the brutalist sci-fi tone holds throughout, and it's easy to get behind Todd's stubborn unwillingness to be thrown out with the trash..." Critic Niall Browne of Movies in Focus wrote "Soldier finally deserves a reappraisal. The Kurt Russell starrer is actually a hugely entertaining and visually arresting piece of science fiction cinema – at the centre of it is a bold performance from Russell – one in which he only speaks 104 words." Connection with Blade
+
+[3]
+of his master. Pourbus travelled back to Antwerp where he married Suzanna Floris, the niece of his master Frans Floris and daughter of Cornelis Floris de Vriendt, a prominent sculptor and architect. Pourbus and his wife had a son also named Frans in 1569. This son became a portrait painter with an international career and was known as Frans Pourbus the Younger. The couple had three more children of whom two died in childhood. In the year 1569 Frans Pourbus was registered as a master of the Guild of Saint Luke in Bruges as well as the Guild of Saint
+
+================================================================================
+id=5265907  difficulty=easy  split=train
+Q: Who is the author of Needle?
+A: Hal Clement
+
+[1] <-- EVIDENCE
+their search. Which of the many humans on the island is the host to their quarry? It is worse than a needle in a haystack (thus the title) because a needle at least looks like a needle, not a piece of straw. The Hunter is able to solve the riddle by observing the behavior of the island people. Bob's father, known for his attention to detail and safety, has been taking amazing risks. He is at least unconsciously aware that an accident will have no ill consequences. The quarry resides within him. The Hunter confirms this, and Bob and the
+
+[2]
+was around nine or ten years old. Always an awkward and lonely girl, she admitted that she experienced childhood obesity. In a 1990 interview to The Illustrated Weekly of India, she called herself as "the fattest girl in the school". In this period, she developed a love for dances and sports, although never participated in them due to her weight. Because of this, she was bullied by many of her schoolmates, who called her lotta (Tamil for "metal pot"). Rekha, describing herself as a "firm believer" in God and destiny, used to spend her time at the school's chapel. Another
+
+[3]
+of arms. Eschbronn's municipal coat of arms displays ash tree branch with seven leaves, in green above a blue, invected line, and upon a field of white. This pattern mainly refers to the etymology of "Eschbronn". It was awarded with a municipal flag by the Rottweil district office in 1990.
+
+================================================================================
+id=5265907  difficulty=hard  split=train
+Q: Who is the author of Needle?
+A: Hal Clement
+
+[1] <-- EVIDENCE
+their search. Which of the many humans on the island is the host to their quarry? It is worse than a needle in a haystack (thus the title) because a needle at least looks like a needle, not a piece of straw. The Hunter is able to solve the riddle by observing the behavior of the island people. Bob's father, known for his attention to detail and safety, has been taking amazing risks. He is at least unconsciously aware that an accident will have no ill consequences. The quarry resides within him. The Hunter confirms this, and Bob and the
+
+[2]
+is in hot pursuit of another of his kind. Both crash their ships into Earth, in the Pacific Ocean, and both survive the crashes. The Hunter makes its way to shore (its erstwhile host having been killed in the crash) and takes up residence in the nearest human being it can find (as it turns out, fifteen-year-old Robert Kinnaird) without letting the human being know. By the time it has figured out enough of what goes on inside a human being to look through Bob's eyes, it is shocked to find itself within an air vessel, being carried further away
+
+[3]
+Bob's father, the boy grabs the one full oil can, races over to the alien, pours oil over it, and lights it on fire. He then brings his father to the doctor. Bob wishes to know the Hunter's plans now that his job is done. The Hunter knows the chances of returning home are minuscule, and hopes to stay with Bob. Bob is happy for this to happen, at least for now, as there is a more immediate problem at hand: Mr. Kinnaird is fine, but they had better come up with a good story, or the Hunter will have
+
+================================================================================
+id=3198580  difficulty=easy  split=test
+Q: Who is the mother of Rekha?
+A: Pushpavalli
+
+[1] <-- EVIDENCE
+T. R. "Bobjima" Alamelu and had four children: the Illinois-based radiation oncologist Revathi Swaminathan, the gynecologist Kamala Selvaraj, The Times of India's journalist Narayani Ganesan, and the medical doctor Jaya Shreedhar. He had two more children with actress Savitri—Vijaya Chamundeswari, a fitness expert, and Sathish Kumaar. Meanwhile, Pushpavalli had two children (Babuji and Rama) from her earlier marriage to the lawyer I. V. Rangachari. Ganesan and Pushpavalli had another daughter, Radha (born 1955). Nagaprasad and the actress Shubha are her cousins, while Vedantam Raghavayya and his wife Suryaprabha are her uncle and aunt, respectively. Born to a Tamil father and
+
+[2]
+conspires to add to Kumaran's suspicions. Kudaman Pillai gets further angered when the king takes away the powers of Pillai. Now that the king is in deathbed, Thampi and Pillais plans to attack and kill Marthandavarma when he visits Mangoikkal kuruppu. Kumaran is chosen to lead the attack. He is warned that this is Thampi's plot to get him killed. Kumaran tries to flee, but Thampi attacks Kumaran and injures him. Kumaran finally runs away for life. Subhadra wows to find out Kumaran. She confronts Thampi who threatens to rape her, but spares her. A mentally unstable but physically strong
+
+[3]
+false sense of immunity to the state at large but as withdrawal starts, this cocooned existence abruptly unravels. Reality sharpens, intensifies, and re-awakens. Sensations flare, as Michele and Snake scrape at the walls, the camera becomes a monitor, never once leaving the apartment. When almost totally withdrawn, Snake discovers a forgotten stash. They are faced with the ultimate question: "Do we really have control over our addictions?" Production. The movie was shot in Toronto, Ontario on a meagre budget of only $25,000. There are only two principal characters in one location. Festivals. Berlin International Film Festival October 1990. Montreal World
+
+================================================================================
+id=3198580  difficulty=hard  split=test
+Q: Who is the mother of Rekha?
+A: Pushpavalli
+
+[1] <-- EVIDENCE
+T. R. "Bobjima" Alamelu and had four children: the Illinois-based radiation oncologist Revathi Swaminathan, the gynecologist Kamala Selvaraj, The Times of India's journalist Narayani Ganesan, and the medical doctor Jaya Shreedhar. He had two more children with actress Savitri—Vijaya Chamundeswari, a fitness expert, and Sathish Kumaar. Meanwhile, Pushpavalli had two children (Babuji and Rama) from her earlier marriage to the lawyer I. V. Rangachari. Ganesan and Pushpavalli had another daughter, Radha (born 1955). Nagaprasad and the actress Shubha are her cousins, while Vedantam Raghavayya and his wife Suryaprabha are her uncle and aunt, respectively. Born to a Tamil father and
+
+[2]
+in the film. Rekha went on to describe Khoon Bhari Maang as "the first and only film I concentrated and understood all throughout." M.L. Dhawan from The Tribune, while documenting the famous Hindi films of 1988, remarked that Khoon Bhari Maang was "a crowning glory for Rekha, who rose like a phoenix ... and bedazzled the audience with her daredevilry." Encyclopædia Britannica's Encyclopædia of Hindi Cinema listed her role in the film as one of Hindi cinema's memorable female characters, noting it for changing "the perception of the ever-forgiving wife, turning her into an avenging angel." In a similar list
+
+[3]
+The film was a major critical failure. Mid-Day remarked, "why Rekha chose to sign this film is a wonder," noting that she is "riddled with bad dialogue, terrible cakey makeup and tawdry styling". This was followed in 2006 by Kudiyon Ka Hai Zamana, a poorly received sex comedy about four female friends and their personal troubles. In a scathing review, Indu Mirani noted that "Rekha hams like she was never going to do another film." In a 2007 article by Daily News and Analysis, critic Deepa Gahlot directed an advice to Rekha: "Please pick movies with care, one more like
+
+================================================================================
+id=6546976  difficulty=easy  split=train
+Q: What is the religion of Mark Lindley?
+A: atheism
+
+[1] <-- EVIDENCE
+on economics at Gujarat Vidyapith, at Dr. Babasaheb Ambedkar Marathwada University and at the Gokhale Institute of Politics and Economics. He has held research fellowships at the Gandhi Research Foundation, and was a visiting professor in 2016 at the University of Zaragoza and in 2017 at the Central University of Gujarat. He serves now as "Professor of Eminence" (in the fields of ecological economics, Gandhian thought, and Western classical music) at The MGM University in Aurangabad. Lindley has identified himself as an atheist. Works. Bibliography of Books Read by Mahatma Gandhi, with Kirit K. Bhavsar and Purnima Upadhyay (Gujarat Vidyapith
+
+[2]
+east and travel south as it flows into the Black Kingdoms. The expedition encounter many dangers along the way, including pirates, hostile local rulers, religious cults, and cannibals before reaching the Styx's headwaters. At the source of the Styx, they face their worst and final challenge, Zeriti's bloodthirsty undead lover. However, the white lotus is finally secured and Conan's crewmembers return down the river. After a final encounter with Zeriti in Asgalun, they return to Baalur and cure the city's inhabitants.
+
+[3]
+state on board a train. With McGurn setting an elaborate plan in motion to eliminate Moran and his gang, Capone retreats to his winter home in Miami to establish an alibi. On the morning of February 14, 1929, two Capone henchmen, dressed as police officers, feign a police raid on the northside garage used by Moran and his gang. Two more Capone hitmen enter carrying Tommy guns, and the four execute five members of Moran's gang, including Peter Gusenberg, using shotguns to eliminate any potential survivors. Also at the garage and victims of the attack are two civilians: mechanic Johnny
+
+================================================================================
+id=6546976  difficulty=hard  split=train
+Q: What is the religion of Mark Lindley?
+A: atheism
+
+[1] <-- EVIDENCE
+on economics at Gujarat Vidyapith, at Dr. Babasaheb Ambedkar Marathwada University and at the Gokhale Institute of Politics and Economics. He has held research fellowships at the Gandhi Research Foundation, and was a visiting professor in 2016 at the University of Zaragoza and in 2017 at the Central University of Gujarat. He serves now as "Professor of Eminence" (in the fields of ecological economics, Gandhian thought, and Western classical music) at The MGM University in Aurangabad. Lindley has identified himself as an atheist. Works. Bibliography of Books Read by Mahatma Gandhi, with Kirit K. Bhavsar and Purnima Upadhyay (Gujarat Vidyapith
+
+[2]
+Paradigm, with James Farmelant. MRZine. The Strange Case of Dr. Hayek and Mr. Hayek, with James Farmelant (in Journal of Social and Political Studies, Allahabad, vol.3/2, 2012). Some Historical Notes on Ecological Sensibilities in Modern Western Culture (University of Kerala, Trivandrum, 2016; revised 2020). A Proposal to Establish at the MGM University a Potentially Notable Ph.D. Programme in Ecological Economics (Mahatma Gandhi University, Aurangabad, 2020). How About a UBI Funded by Levies on Every Way of Destroying our Heritage of Natural Resources? (lecture delivered in 2019 at the University of Hyderabad; published subsequently by Mahatma Gandhi University, Aurangabad, with a
+
+[3]
+University, Ahmedabad, 2011). Gustav Le Bon (1841-1931), Ferdinand Tönnies (1855-1936) and Mahatma Gandhi (1869-1948) as Modern Psychologists (Mahatma Gandhi Mission, Aurangabad, 2018; 2nd ed., 2020). “A Comprehensive Sketch of What Mahatma Gandhi Said and Did re: Health, Nutrition, Hygiene and Health Care” (lecture delivered in 2019 in New Delhi to a joint meeting of the All India Institute of Medical Sciences and the Indian Council of Medical Research) An Account of the Historic Dialogue between Mahatma Gandhi and Babasaheb Ambedkar (with a preface by Ankushrao N. Kadam; Mahatma Gandhi Mission University, Aurangabad, 2020) Looking Back for Insights into a New
+
+================================================================================
+id=1817608  difficulty=easy  split=train
+Q: Who was the director of The St. Valentine's Day Massacre?
+A: Roger Corman
+
+[1] <-- EVIDENCE
+The St. Valentine's Day Massacre is a 1967 American gangster film based on the 1929 mass murder of seven members of Chicago's Northside Gang (led by George "Bugs" Moran) on orders from Al Capone. The picture was directed by Roger Corman, written by Howard Browne, and starring Jason Robards as Capone, Ralph Meeker as Moran, George Segal as Peter Gusenberg, and David Canary as Frank Gusenberg. Corman, better known as a director and producer of low-budget B movies, was given his largest budget to date (estimated at $2.5 million) and the backing of 20th Century Fox to realize what he
+
+[2]
+of Letters, 1997), Peter Howitt (Stone Cold). Scene at BroadcastForschools.co.uk. Scene at the BFI Film and Television Database Loved Up at the BFI's Screenonline
+
+[3]
+re-worked and officially released as the lead single from The Complete Confection on February 13, 2012, through Capitol Records. A dance-pop and power pop record with electropop elements and a distinctive house beat, it has been compared to Perry's 2010 singles "Firework" and "California Gurls". Its lyrics describe a female protagonist who declares herself as unbreakable and strong following a break-up. Many critics theorized that the lyrics addressed Perry's divorce from British comedian, media personality and actor Russell Brand, although she stated it was not about him, since it was written in early 2010. The single's artwork was produced by
+
+================================================================================
+id=1817608  difficulty=hard  split=train
+Q: Who was the director of The St. Valentine's Day Massacre?
+A: Roger Corman
+
+[1] <-- EVIDENCE
+The St. Valentine's Day Massacre is a 1967 American gangster film based on the 1929 mass murder of seven members of Chicago's Northside Gang (led by George "Bugs" Moran) on orders from Al Capone. The picture was directed by Roger Corman, written by Howard Browne, and starring Jason Robards as Capone, Ralph Meeker as Moran, George Segal as Peter Gusenberg, and David Canary as Frank Gusenberg. Corman, better known as a director and producer of low-budget B movies, was given his largest budget to date (estimated at $2.5 million) and the backing of 20th Century Fox to realize what he
+
+[2]
+holding a similar press conference in Miami, disparages Moran's sanity and intelligence. In the aftermath, Capone is shown personally dispatching two of the men who carried out the attack (John Scalise and Albert Anselmi) after he learns of their plans to betray and kill him. Moran is eventually forced out of Chicago and years later dies of lung cancer while in Leavenworth Prison, while Capone, following his release after serving a prison term in Alcatraz, dies of syphilis. No one is ever actually charged for the murders, but those responsible either disappear by going into hiding or are violently killed.
+
+[3]
+indifference as to whether or not any of Moran's men are also eliminated. Moran gives the order to have Patsy Lolordo, a crony and personal friend of Capone's who is also the representative of the Sicilian Mafia in Chicago, eliminated in order to replace him with an envoy more sympathetic to Moran. Moran's assassination plan sees him conspire with low-level mafiosi Joe Aiello to kill Lolordo and replace him with Aiello. Lolordo's bodyguards are corrupted, and the unarmed Lolordo is murdered in his apartment. In retaliation, Capone has Aiello tracked down and personally executes him as Aiello is fleeing the
+
+================================================================================
+id=2005603  difficulty=easy  split=train
+Q: Who was the producer of A Man and a Woman?
+A: Claude Lelouch
+
+[1] <-- EVIDENCE
+a commentator says, "A man and a woman have just died after skidding in a powerful car". This leads to a discussion about how he is driving and Anne commenting "you are average". Casting. A key casting decision for Lelouch was Jean-Louis Trintignant: I think Jean-Louis is the actor who taught me how to direct actors. We really brought each other a lot. He changed his method of acting while working with me, and I began to truly understand what directing actors was all about, working with him. I think the relationship between a director and actor is the same
+
+[2]
+Gerard Gilbert in The Independent also noted a gangster-like appearance in Busby's costume, and suggested that painting Alan Hardaker as the villain seemed tame; "compared to Jimmy McGovern's Hillsborough, with its burning righteous anger aimed at the police and The Sun, Hardaker seemed like a flimsy scapegoat for what, au fond, was an appalling accident." Jim White, writing for The Telegraph was more positive stating "United...is brilliant in its evocation of the pipe-puffing Fifties football orbit...the CGI evocation of immediate post-war Old Trafford, with the smokestacks brooding above the open terraces, looks more authentic than the real thing...David Tennant's performance
+
+[3]
+highest rated episode of any foreign series in Poland. The Pilot aired in Greece on 2 January, with a rating of 769,000 viewers, an unusually high figure for an American series to air on Greek television. Charlie Brooker of The Guardian calls the pilot "possibly the dumbest story ever told" and opines that it is very unrealistic. Brooker jokes that the writing is "like they took a two-year-old to see The Shawshank Redemption, asked him to recount the plot three weeks later, wrote down everything he said, and filmed it." Awards and nominations. For the episode, Mark Helfrich was nominated
+
+================================================================================
+id=2005603  difficulty=hard  split=train
+Q: Who was the producer of A Man and a Woman?
+A: Claude Lelouch
+
+[1] <-- EVIDENCE
+a commentator says, "A man and a woman have just died after skidding in a powerful car". This leads to a discussion about how he is driving and Anne commenting "you are average". Casting. A key casting decision for Lelouch was Jean-Louis Trintignant: I think Jean-Louis is the actor who taught me how to direct actors. We really brought each other a lot. He changed his method of acting while working with me, and I began to truly understand what directing actors was all about, working with him. I think the relationship between a director and actor is the same
+
+[2]
+1981 (Reader's Digest RD4A 213). Track listing. "Un homme et une femme" ("A Man and a Woman") performed by Nicole Croisille and Pierre Barouh (2:40) "Samba Saravah" by Pierre Barouh (4:30) "Aujourd'hui c'est toi" ("Today it's You") by Nicole Croisille (2:06) "Un homme et une femme" ("A Man and a Woman") (2:37) "Plus fort que nous" ("Stronger Than Us") (3:15) "Aujourd'hui c'est toi" ("Today It's You") (2:35) "A l'ombre de nous" ("In Our Shadow") by Pierre Barouh (4:55) "Plus fort que nous" ("Stronger Than Us") by Nicole Croisille and Pierre Barouh (3:43) "A 200 à l'heure" ("124 Miles An Hour")
+
+[3]
+north. Jean-Louis finally arrives in Deauville and finds Anne and the two children playing on the beach. When they see each other, they run into each other's arms and embrace. After dropping their children off at the boarding school, Jean-Louis and Anne drive into town where they rent a room and have passionate sex. While they are in each other's arms, however, Jean-Louis senses that something is not right. Anne's memories of her deceased husband are still with her, and she feels uncomfortable continuing. Anne says it would be best for her to take the train back to Paris alone.
+
+================================================================================
+id=5702613  difficulty=easy  split=test
+Q: Who was the producer of Scene?
+A: BBC
+
+[1] <-- EVIDENCE
+Scene was a British television anthology drama/documentary series made by the BBC for teenagers, broadcast from 1968 to 2002. It comprised dramas and documentaries on topical issues, sometimes of a controversial nature, by leading contemporary playwrights including Willy Russell, Fay Weldon, Tom Stoppard, Alan Plater etc. Programmes were originally broadcast to a school audience as part of the BBC Schools strand. Dramas from the series were also regularly broadcast for a wider adult audience. Scene was originally conceived as a series of 30 minute dramas and documentaries suitable for showing to teenage schoolchildren as part of the English and Humanities
+
+[2]
+Preservation. The Academy Film Archive preserved Devi in 1996.. A 4K restoration was released by The Criterion Collection on October 26, 2021. Critical reception and legacy. The film received critical acclaim upon its release. On the review aggregator website Rotten Tomatoes, 100% of 17 critics' reviews of the film are positive, with an average rating of 7.7/10. Directors William Wyler and Elia Kazan described the film as "poetry on celluloid", and director Francis Ford Coppola considers Devi to be Ray's best work, calling it "a cinematic milestone". The film was adapted into the opera The Goddess by Allen Shearer. National
+
+[3]
+peace in "the world." The phrase was later changed in television-release versions of the film. Box office. The film opened in China in October 2002. It grossed CN¥100 million within a week, and CN¥243 million in three months. It topped the 2002 annual Chinese box office and set the record for the domestic highest-grossing film in China, earning CN¥250 million ($30 million). On 27 August 2004, after a long delay, Hero opened in 2,175 North American screens uncut and subtitled. It debuted at #1, grossing $18 million in its opening weekend. Hero grossed $53.7 million in the United States and
+
+================================================================================
+id=5702613  difficulty=hard  split=test
+Q: Who was the producer of Scene?
+A: BBC
+
+[1] <-- EVIDENCE
+Scene was a British television anthology drama/documentary series made by the BBC for teenagers, broadcast from 1968 to 2002. It comprised dramas and documentaries on topical issues, sometimes of a controversial nature, by leading contemporary playwrights including Willy Russell, Fay Weldon, Tom Stoppard, Alan Plater etc. Programmes were originally broadcast to a school audience as part of the BBC Schools strand. Dramas from the series were also regularly broadcast for a wider adult audience. Scene was originally conceived as a series of 30 minute dramas and documentaries suitable for showing to teenage schoolchildren as part of the English and Humanities
+
+[2]
+curriculum. It was envisaged that the dramas shown would stimulate discussion in the classroom about various contemporary issues relevant to teenagers (such as race, drugs, sex, disability etc.). Award winners and nominees. Terry (1969) – BAFTA Flame of Knowledge Award. A Collier's Friday Night (1976) – BAFTA Flame of Knowledge Award. Loved Up (1996) – BAFTA for best schools drama. Series Ass.Producer Andy Rowley Alison (1996) – BAFTA nomination for best schools drama. Series Producer Andy Rowley United (1998) – BAFTA for best schools drama. Produced and directed by Michael McGowan. Junk (1999) – BAFTA for best schools drama. Offside
+
+[3]
+(2002) – BAFTA for best schools drama. Split game (2005) – BAFTA nomination for best schools drama. Stone Cold BAFTA nomination 1998 Producer Andy Rowley Director Stephen Whittaker Selected episodes. Terraces (1993). The residents of a street of terraced houses decide to paint them all in the colours of their local football team – all except one man who refuses to conform to mob rule. Written by Willy Russell. Loved Up (1995). A young woman leaves home to live with her boyfriend and discovers the rave scene and ecstasy. Series producer Andy Rowley. A 2 x 30 minute abridged version
+
+================================================================================
+id=6290818  difficulty=easy  split=train
+Q: What genre is Part of Me?
+A: dance-pop
+
+[1] <-- EVIDENCE
+was used on the single cover was part of a photographic essay for Perry's appearance in episode 710 of the television program Saturday Night Live. Composition and lyrical interpretation. "Part of Me" is a dance-pop and power pop song set to a house beat. It is composed in the key of D minor and set in a 44 time signature at a tempo of 130 beats per minute. The melody spans the tonal range of D4 to D5, while the music follows the chord progression of Dm–F–B♭–C and switches to a chord progression of C–Dm–F–C–Dm–F–C–Dm–F–C during the bridge. Production was
+
+[2]
+started working on the script of Super. Theme. A symbol being the title of the film, it is replete with symbolism from the title sequence is displayed. Super depicts a Utopian India in the year 2030 where Indians are pictured to be wealthy, hard-working, and are seen wearing traditional clothing consisting of Ilkal saree and panche. In contrast, westerners are the ones taking care of menial jobs like taxi driving, janitorial, etc. It is a future where the Indian rupee is worth 70 times the pound sterling and people who cannot speak Kannada are considered illiterates (and Westerners are visibly
+
+[3]
+another expatriate German film director, Douglas Sirk, who also turned him down. Joseph Losey took on the job, despite his being under suspicion of being a Communist by the FBI and the House Un-American Activities Committee. Losey registered discontent with Columbia Pictures’ financing of the film and the limitations placed on altering the structure of the Lang original. Denying that the film was merely a “remake,” Losey “regretted that he wasn't able to make more extensive changes to the original.” Casting. Losey's casting included actors who were also under suspicion from the Hollywood blacklist. M was Howard Da Silva's last
+
+================================================================================
+id=6290818  difficulty=hard  split=train
+Q: What genre is Part of Me?
+A: dance-pop
+
+[1] <-- EVIDENCE
+was used on the single cover was part of a photographic essay for Perry's appearance in episode 710 of the television program Saturday Night Live. Composition and lyrical interpretation. "Part of Me" is a dance-pop and power pop song set to a house beat. It is composed in the key of D minor and set in a 44 time signature at a tempo of 130 beats per minute. The melody spans the tonal range of D4 to D5, while the music follows the chord progression of Dm–F–B♭–C and switches to a chord progression of C–Dm–F–C–Dm–F–C–Dm–F–C during the bridge. Production was
+
+[2]
+This deal was a part of Pepsi's first global campaign, titled "Live For Now", which partners with entertainment artists and properties to promote their work. "Part of Me" was used in a series of trailers as part of this deal as well as various other media related campaigns to promote the film. The track is available as downloadable content for the video games Just Dance 4 and Just Dance 2014. Personnel. Credits adapted from Teenage Dream: The Complete Confection liner notes. Katy Perry – vocals, songwriting Dr. Luke – songwriting, production Max Martin – songwriting, production Military-entertainment complex. Katy Perry:
+
+[3]
+door. The title track begins as we see Perry driving to a gas station, where she buys a can of tea. After paying for her items, she sees a moto-sticker on a notice board which reads, "All women are created equal, then some become Marines". The increasingly emotional Perry gathers her possessions from her car trunk, enters a nearby restroom, and begins her change of identity. She tearfully cuts her hair short, removes her bracelets, flattens her breasts, and changes into a hoodie and jeans. Perry enlists in the United States Marine Corps, and after a brief scene of recruit

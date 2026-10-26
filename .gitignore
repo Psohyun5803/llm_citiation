@@ -2,6 +2,5 @@ venv/
 __pycache__/
 *.pyc
 
-# large regenerable binary artifacts (re-run generate.py / extract_features.py to rebuild)
-data/generated_citations/activations/
+# large regenerable binary artifacts
 results/*.pt
